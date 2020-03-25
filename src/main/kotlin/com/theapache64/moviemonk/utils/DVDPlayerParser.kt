@@ -74,8 +74,6 @@ object DVDPlayerParser {
         val posterRegEx = POSTER_URL_REGEX_FORMAT.replace(
             "{MOVIE_NAME}", movieName
         ).toRegex()
-        println(posterRegEx.pattern)
-        File("x.txt").writeText(htmlResponse)
         return posterRegEx.find(htmlResponse)!!.groups["posterUrl"]!!.value
     }
 
