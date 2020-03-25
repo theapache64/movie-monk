@@ -74,6 +74,8 @@ object DVDPlayerParser {
         val posterRegEx = POSTER_URL_REGEX_FORMAT.replace(
             "{MOVIE_NAME}", movieName
         ).toRegex()
+        println(posterRegEx.pattern)
+        File("x.txt").writeText(htmlResponse)
         return posterRegEx.find(htmlResponse)!!.groups["posterUrl"]!!.value
     }
 
@@ -165,10 +167,10 @@ object DVDPlayerParser {
                                 parseDropBoxUrl(url)
                             }
 
-                            UP_INDIA_SERVER_ID -> {
+                            /*UP_INDIA_SERVER_ID -> {
                                 // up india
                                 parseUpIndiaUrl(url)
-                            }
+                            }*/
 
                             else -> {
                                 url

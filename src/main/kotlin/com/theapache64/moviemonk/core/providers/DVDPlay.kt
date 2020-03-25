@@ -34,10 +34,10 @@ object DVDPlay : MovieProvider {
             ).body!!.string()
         )
 
-        val page1Data = DVDPlayerParser.getPage1Data(newBaseMovie.baseName, innerPageData)
+        val page1Data = DVDPlayerParser.getPage1Data(newBaseMovie.movie!!.title!!, innerPageData)
         val downloadLinks = DVDPlayerParser.parseFinalDownloadLinks(page1Data.innerPageUrls)
 
-        val baseName = newBaseMovie.movie!!.baseName
+        val baseName = newBaseMovie.movie.baseName
         val infoUrl = "http://google.com/search?q=${URLEncoder.encode(baseName, "UTF-8")}"
         return Movie(
             baseName,
