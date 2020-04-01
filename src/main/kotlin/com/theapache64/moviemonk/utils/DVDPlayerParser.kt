@@ -17,7 +17,7 @@ object DVDPlayerParser {
     private const val UP_INDIA_SERVER_ID = 4
 
     private val MOVIE_REGEX =
-        "<b> &raquo; (?<movieName>.+?) \\((?<year>\\d+)\\) <span style=\"color:#808080;\"> (?<language>.+?) (?<quality>.+?) <\\/spa><a href=\"(?<url>.+?)\">Click here<\\/a><\\/b>".toRegex()
+            "<b> &raquo; (?<movieName>.+?) \\(S?(?<year>\\d+)\\) <span style=\"color:#808080;\"> (?<language>.+?(?: Series)?) (?<quality>.+?) <\\/spa><a href=\"(?<url>.+?)\">Click here<\\/a><\\/b>".toRegex()
 
     private val page1RegEx =
         "<a class=\"touch\" href=\"(?<pageUrl>.+?)\"><b>&raquo; (?<title>.+?)<\\/a>".toRegex()
@@ -90,6 +90,7 @@ object DVDPlayerParser {
 
     fun getMovies(htmlResponse: String): List<BaseMovie> {
 
+        File("x.txt").writeText(htmlResponse)
         val matches = MOVIE_REGEX.findAll(htmlResponse)
         val movieList = mutableListOf<BaseMovie>()
 

@@ -35,6 +35,8 @@ abstract class BaseTelegramEngine : Engine {
                             getChannelName(),
                             movie.posterUrl
                         ).result.messageId
+
+                        Thread.sleep(2000)
                     } catch (e: IOException) {
                         e.printStackTrace()
                         println("Skipping poster...")
@@ -56,6 +58,8 @@ abstract class BaseTelegramEngine : Engine {
                             e.printStackTrace()
                             println("Skipping screen...")
                         }
+
+                        Thread.sleep(2000)
                     }
                 }
 
@@ -82,6 +86,8 @@ abstract class BaseTelegramEngine : Engine {
                                 downloadMsg,
                                 msgId
                             )
+
+                            Thread.sleep(2000)
                         } catch (e: SocketTimeoutException) {
                             e.printStackTrace()
                             println("Timeout hit! cancelling $downloadLink")
@@ -98,6 +104,8 @@ abstract class BaseTelegramEngine : Engine {
                         movie.magnetLink,
                         msgId
                     )
+
+                    Thread.sleep(2000)
                 }
 
 
