@@ -76,21 +76,23 @@ abstract class BaseTelegramEngine : Engine {
                 if (movie.downloads != null) {
                     for (download in movie.downloads) {
 
-                        val downloadLink = "<a href=\"${download.url}\">${download.title}</a>"
-                        val downloadMsg = "⬇ ${download.source} : $downloadLink"
+                        val downloadMsg = "📥 ${download.title}"
                         println("Sending link to telegram : $download")
                         try {
-                            TelegramAPI.sendHtmlMessage(
+
+                            TelegramAPI.sendLinkButton(
                                 botToken,
                                 getChannelName(),
+                                download.source,
                                 downloadMsg,
+                                download.url,
                                 msgId
                             )
 
                             Thread.sleep(2000)
                         } catch (e: SocketTimeoutException) {
                             e.printStackTrace()
-                            println("Timeout hit! cancelling $downloadLink")
+                            println("Timeout hit! cancelling $downloadMsg")
                         }
                     }
                 }

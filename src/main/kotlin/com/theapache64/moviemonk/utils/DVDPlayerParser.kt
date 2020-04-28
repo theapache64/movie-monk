@@ -192,10 +192,10 @@ object DVDPlayerParser {
                         }
 
                         val source = when (serverId) {
-                            SHARER_SERVER_ID -> "Sharer"
-                            DROPBOX_SERVER_ID -> "DropBox"
-                            UP_INDIA_SERVER_ID -> "UpIndia"
-                            else -> "DVDPlay"
+                            SHARER_SERVER_ID -> "🔗 Sharer"
+                            DROPBOX_SERVER_ID -> "🗃 DropBox"
+                            UP_INDIA_SERVER_ID -> "🇮🇳 UpIndia"
+                            else -> "📀 DVDPlay"
                         }
 
                         downloadUrls.add(Movie.Download(source, url.trim(), iPageUrl.title.trim()))

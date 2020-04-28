@@ -66,4 +66,40 @@ object TelegramAPI {
         }
         return GsonUtil.gson.fromJson(respJsonString, SendMessageResponse::class.java)
     }
+
+    fun sendLinkButton(
+        from: String,
+        to: String,
+        message: String,
+        text: String,
+        url: String,
+        replyTo: Long? = null
+    ): SendMessageResponse {
+
+
+        val response = RestClient.post(
+            "$BASE_URL/bot$from/sendMessage",
+            null,
+            SendMessageRequest(
+                to,
+                message,
+                true,
+                "HTML",
+                replyTo,
+                SendMessageRequest.ReplyMarkUp(
+                    listOf(
+                        listOf(
+                            SendMessageRequest.InlineKeyboardButton(text, url)
+                        )
+                    )
+                )
+            )
+        )
+
+        val respJsonString = response.body!!.string()
+        if (response.code != 200) {
+            throw IOException("Failed to send message '$message' -> $respJsonString")
+        }
+        return GsonUtil.gson.fromJson(respJsonString, SendMessageResponse::class.java)
+    }
 }
