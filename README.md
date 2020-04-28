@@ -1,3 +1,3 @@
 # movie-monk
 
-![](https://code2flow.com/1f4hFZ.png)
+A fully automated engine to control telegram movie channels.
