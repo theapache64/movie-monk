@@ -28,6 +28,8 @@ jobs:
         run: |
           git config --local user.email "moviemonk64@gmail.com"
           git config --local user.name "movie-monk-b0t"
+          rm last_update.txt
+          echo "$(date)" >> last_update.txt
           git commit -m "🚀 update movies" -a
       - name: Push changes
         uses: ad-m/github-push-action@master
