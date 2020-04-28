@@ -17,7 +17,7 @@ object DVDPlayerParser {
     private const val UP_INDIA_SERVER_ID = 4
 
     private val MOVIE_REGEX =
-            "<b> &raquo; (?<movieName>.+?) \\(S?(?<year>\\d+)\\) <span style=\"color:#808080;\"> (?<language>.+?(?: Series)?) (?<quality>.+?) <\\/spa><a href=\"(?<url>.+?)\">Click here<\\/a><\\/b>".toRegex()
+        "<b> &raquo; (?<movieName>.+?) \\(S?(?<year>\\d+)\\) <span style=\"color:#808080;\"> (?<language>.+?(?: Series)?) (?<quality>.+?) <\\/spa><a href=\"(?<url>.+?)\">Click here<\\/a><\\/b>".toRegex()
 
     private val page1RegEx =
         "<a class=\"touch\" href=\"(?<pageUrl>.+?)\"><b>&raquo; (?<title>.+?)<\\/a>".toRegex()
@@ -90,7 +90,6 @@ object DVDPlayerParser {
 
     fun getMovies(htmlResponse: String): List<BaseMovie> {
 
-        File("x.txt").writeText(htmlResponse)
         val matches = MOVIE_REGEX.findAll(htmlResponse)
         val movieList = mutableListOf<BaseMovie>()
 
@@ -126,6 +125,11 @@ object DVDPlayerParser {
 
 
     private fun parseDropBoxUrl(url: String): String {
+
+        if (url.contains("drivebank")) {
+            return url
+        }
+
         val respData = StringUtils.removeNewLinesAndMultipleSpaces(RestClient.get(url, null).body!!.string())
         val matches = serverRegEx.find(respData)
         return matches!!.groups["url"]!!.value
@@ -149,10 +153,11 @@ object DVDPlayerParser {
 
                 val serverId = match.groups["serverId"]!!.value.toInt()
 
-                var url = if (serverId == DROPBOX_SERVER_ID) {
-                    "${DVDPlay.BASE_URL}${match.groups["url"]!!.value}"
+                val x = match.groups["url"]!!.value
+                var url = if (serverId == DROPBOX_SERVER_ID && !x.startsWith("http")) {
+                    "${DVDPlay.BASE_URL}$x"
                 } else {
-                    match.groups["url"]!!.value
+                    x
                 }
 
                 if (serverId != TELEGRAM_CHANNEL_SERVER_1_ID && serverId != TELEGRAM_CHANNEL_SERVER_2_ID) {
@@ -163,6 +168,7 @@ object DVDPlayerParser {
 
                             DROPBOX_SERVER_ID -> {
                                 // dropbox
+                                println("URl hah is $url")
                                 parseDropBoxUrl(url)
                             }
 

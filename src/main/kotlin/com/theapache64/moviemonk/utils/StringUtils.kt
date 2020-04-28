@@ -22,6 +22,8 @@ object StringUtils {
     }
 
     fun removeNewLinesAndMultipleSpaces(input: String): String {
-        return input.replace("\n", "").replace("\\s{2,}".toRegex(), " ")
+        return input.replace("\n", "")
+            .replace("\r", "")
+            .replace("\\s{2,}".toRegex(), " ")
     }
 }

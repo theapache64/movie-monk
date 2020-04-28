@@ -1,6 +1,7 @@
 package com.theapache64.moviemonk.core
 
 import com.theapache64.moviemonk.utils.StringUtils
+import java.io.File
 
 class TPBParser(
     private var htmlResponse: String
@@ -9,14 +10,15 @@ class TPBParser(
     companion object {
         private val MAGNET_REGEX = "href=\"(?<magnetUrl>magnet:.+?)\" title=\"Get this torrent".toRegex()
         private val FILE_COUNT_REGEX = "<dt>Files:<\\/dt> <dd><a href=\".+\">(?<fileCount>\\d+)<\\/a><\\/dd>".toRegex()
-        private val FILE_SIZE_REGEX = "<dt>Size:<\\/dt> <dd>(?<fileSize>.+) \\(\\d+ Bytes\\)<\\/dd>".toRegex()
-        private val INFO_URL_REGEX = "<dt>Info:<\\/dt> <dd><a href=\"(?<infoUrl>.+?)\" title=\"".toRegex()
+        private val FILE_SIZE_REGEX = "<dt>Size:<\\/dt> <dd>(?<fileSize>.+) \\(\\d+ Bytes\\)<\\/dd>".toRegex()
+        private val INFO_URL_REGEX = "<dt>Info:<\\/dt> <dd><a href=\"(?<infoUrl>.+?)\"".toRegex()
         private val SPOKEN_LANGUAGES_REGEX = "<dt>Spoken language\\(s\\):<\\/dt> <dd>(?<languages>.+?)<\\/dd>".toRegex()
         private val IMDB_ID_REGEX = "https\\:\\/\\/www\\.imdb\\.com\\/title\\/(?<imdbId>\\w+\\d+)".toRegex()
     }
 
     init {
         htmlResponse = StringUtils.removeNewLinesAndMultipleSpaces(htmlResponse)
+            .replace("&nbsp;", " ")
     }
 
     fun getMagnetLink(): String? {

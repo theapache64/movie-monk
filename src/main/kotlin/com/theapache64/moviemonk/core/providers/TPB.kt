@@ -8,12 +8,14 @@ import com.theapache64.moviemonk.models.external.imdb.IMDBResponse
 import com.theapache64.moviemonk.utils.IMDBParser
 import com.theapache64.moviemonk.utils.RestClient
 import com.theapache64.moviemonk.utils.StringUtils
+import java.io.File
 
 object TPB : MovieProvider {
 
     private const val PROXIES_URL = "https://piratebay-proxylist.net/"
     private val PROXY_REGEX =
         "<span class=\"domain\" style=\"margin-right: 4px;\">(?<domain>.+)</span>".toRegex()
+
     private val MOVIE_REGEX =
         "<div class=\"detName\"> <a href=\"(?<link>.+?)\" class=\"detLink\" (?:.+?)>(?<movieName>.+?)<\\/a><\\/div>".toRegex()
 
@@ -30,10 +32,11 @@ object TPB : MovieProvider {
         val respString = RestClient.get(moviesUrl).body!!.string()
         val response = StringUtils.removeNewLinesAndMultipleSpaces(respString)
         val results = MOVIE_REGEX.findAll(response)
+        println("Total movies found : ${results.toList().size}")
         val baseMovies = mutableListOf<BaseMovie>()
         for (result in results) {
             val movieName = result.groups["movieName"]!!.value
-            val detailsSubPath = result.groups["link"]!!.value
+            val detailsSubPath = result.groups["link"]!!.value.replace("https://$baseDomain", "")
             baseMovies.add(BaseMovie(movieName, detailsSubPath))
         }
         return baseMovies
@@ -44,16 +47,21 @@ object TPB : MovieProvider {
      * To get thepiratebay proxy domains
      */
     fun getProxies(): List<String> {
+        return listOf("thepiratebay10.org")
+        /*
+
+        COMMENTED DUE TO AN ISSUE WITH https://thepiratebay-proxylist.org/ (no domains available)
+
         println("Collecting proxies from $PROXIES_URL...")
         val resp = RestClient.get(PROXIES_URL).body!!.string()
         val results = PROXY_REGEX.findAll(resp)
-        val proxies = mutableListOf<String>()
+        val proxies = mutableListOf<String>("thepiratebay10.org") // with default one
         for (result in results) {
             proxies.add(result.groups["domain"]!!.value)
         }
         println("Proxies : $proxies")
 
-        return proxies
+        return proxies*/
     }
 
     override fun getIssueId(): Int? = 1
