@@ -23,7 +23,7 @@ object DVDPlayerParser {
         "<a class=\"touch\" href=\"(?<pageUrl>.+?)\"><b>&raquo; (?<title>.+?)<\\/a>".toRegex()
 
 
-    private val upIndiaRegEx1 =
+/*    private val upIndiaRegEx1 =
         "<a class=\"download_box_new\" href=\"#\" onClick=\"dwl\\(this\\);\" itemlink=\"(?<url>.+?)\">".toRegex()
 
 
@@ -31,11 +31,11 @@ object DVDPlayerParser {
         "<a onClick=\"lnk\\(this, 'Download File'\\);\" class=\"mirror_link\" href=\"#\" itemlink=\"(?<url>.+)\"> <b>Download<\\/b> <\\/a>"
             .toRegex()
 
-    private val domainRegEx = "(?:http|https):\\/\\/(?<domain>.+?)\\/".toRegex()
+    private val domainRegEx = "(?:http|https):\\/\\/(?<domain>.+?)\\/".toRegex()*/
 
 
     private val serverRegEx =
-        "<p class=\"home\"><span class=\"update\"><a href=\"(?<url>.+?)\">Download File \\(Server (?<serverId>\\d+?)\\)".toRegex()
+        "<p class=\"home\"><span class=\"update\"><a href=\"(?<url>.*?)\">Download File \\(Server (?<serverId>\\d+?)\\)".toRegex()
 
 
     private const val SCREEN_URL_REGEX_FORMAT =
@@ -126,7 +126,7 @@ object DVDPlayerParser {
 
     private fun parseDropBoxUrl(url: String): String {
 
-        if (url.contains("drivebank")) {
+        if (!url.contains("https://dvdplay")) {
             return url
         }
 
@@ -142,10 +142,15 @@ object DVDPlayerParser {
         for (iPageUrl in innerPageUrls) {
 
             val iPageFullUrl = DVDPlay.BASE_URL + iPageUrl.url
-            println(iPageFullUrl)
+
             val pageData = StringUtils.removeNewLinesAndMultipleSpaces(
                 RestClient.get(iPageFullUrl, null).body!!.string()
             )
+/*
+
+            println("Writing page data")
+            File("page_data.txt").writeText(pageData)
+*/
 
             val matches = serverRegEx.findAll(pageData)
 
@@ -153,48 +158,50 @@ object DVDPlayerParser {
 
                 val serverId = match.groups["serverId"]!!.value.toInt()
 
-                val x = match.groups["url"]!!.value
-                var url = if (serverId == DROPBOX_SERVER_ID && !x.startsWith("http")) {
-                    "${DVDPlay.BASE_URL}$x"
-                } else {
-                    x
-                }
+                val x = match.groups["url"]!!.value.trim()
+                if (x.isNotEmpty()) {
+                    var url = if (serverId == DROPBOX_SERVER_ID && !x.startsWith("http")) {
+                        "${DVDPlay.BASE_URL}$x"
+                    } else {
+                        x
+                    }
 
-                if (serverId != TELEGRAM_CHANNEL_SERVER_1_ID && serverId != TELEGRAM_CHANNEL_SERVER_2_ID) {
+                    if (serverId != TELEGRAM_CHANNEL_SERVER_1_ID && serverId != TELEGRAM_CHANNEL_SERVER_2_ID) {
 
+                        try {
+                            url = when (serverId) {
 
-                    try {
-                        url = when (serverId) {
+                                DROPBOX_SERVER_ID -> {
+                                    // dropbox
+                                    parseDropBoxUrl(url)
+                                }
 
-                            DROPBOX_SERVER_ID -> {
-                                // dropbox
-                                println("URl hah is $url")
-                                parseDropBoxUrl(url)
+                                /*UP_INDIA_SERVER_ID -> {
+                                    // up india
+                                    parseUpIndiaUrl(url)
+                                }*/
+
+                                else -> {
+                                    url
+                                }
                             }
 
-                            /*UP_INDIA_SERVER_ID -> {
-                                // up india
-                                parseUpIndiaUrl(url)
-                            }*/
-
-                            else -> {
-                                url
-                            }
+                        } catch (e: SocketTimeoutException) {
+                            e.printStackTrace()
+                            println("Failed to some url")
                         }
 
-                    } catch (e: SocketTimeoutException) {
-                        e.printStackTrace()
-                        println("Failed to some url")
-                    }
+                        val source = when (serverId) {
+                            SHARER_SERVER_ID -> "Sharer"
+                            DROPBOX_SERVER_ID -> "DropBox"
+                            UP_INDIA_SERVER_ID -> "UpIndia"
+                            else -> "DVDPlay"
+                        }
 
-                    val source = when (serverId) {
-                        SHARER_SERVER_ID -> "Sharer"
-                        DROPBOX_SERVER_ID -> "DropBox"
-                        UP_INDIA_SERVER_ID -> "UpIndia"
-                        else -> "DVDPlay"
+                        downloadUrls.add(Movie.Download(source, url.trim(), iPageUrl.title.trim()))
                     }
-
-                    downloadUrls.add(Movie.Download(source, url.trim(), iPageUrl.title.trim()))
+                } else {
+                    println("URL is blank -> $match")
                 }
             }
 
@@ -204,7 +211,7 @@ object DVDPlayerParser {
     }
 
 
-    private fun parseUpIndiaUrl(url: String): String {
+    /*private fun parseUpIndiaUrl(url: String): String {
         val resp1 = StringUtils.removeNewLinesAndMultipleSpaces(
             RestClient.get(url, null).body!!.string()
         )
@@ -217,7 +224,7 @@ object DVDPlayerParser {
         val url3 = upIndiaRegEx2.find(resp2)!!.groups["url"]!!.value
         val mainDomain = domainRegEx.find(url)!!.groups["domain"]!!.value
         return "http://$mainDomain$url3"
-    }
+    }*/
 
 
 }

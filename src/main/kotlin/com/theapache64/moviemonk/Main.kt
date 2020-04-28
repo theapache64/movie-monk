@@ -13,11 +13,11 @@ class Main
 fun main(args: Array<String>) {
 
     val providers = mapOf(
-        TPB to listOf(
+        /*TPB to listOf(
             CreatorEngine,
             CommenterEngine,
             TPBTelegramEngine
-        ),
+        ),*/
         DVDPlay to listOf(
             DVDPlayTelegramEngine
         )

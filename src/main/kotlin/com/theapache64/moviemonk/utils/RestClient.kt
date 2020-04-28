@@ -1,10 +1,12 @@
 package com.theapache64.moviemonk.utils
 
 import okhttp3.OkHttpClient
+import okhttp3.Protocol
 import okhttp3.Request
 import okhttp3.RequestBody.Companion.toRequestBody
 import okhttp3.Response
 import java.util.concurrent.TimeUnit
+import kotlin.system.exitProcess
 
 object RestClient {
 
