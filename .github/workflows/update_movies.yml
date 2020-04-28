@@ -21,10 +21,10 @@ jobs:
         uses: actions/checkout@master
       - name: Create local changes
         run: java -jar movie-monk.main.jar
-      - name: Commit files
         env:
           MOVIE_MONK_GITHUB_ACCESS_TOKEN: ${{ secrets.MOVIE_MONK_GITHUB_ACCESS_TOKEN }}
           MOVIE_MONK_TELEGRAM_BOT_TOKEN: ${{ secrets.MOVIE_MONK_TELEGRAM_BOT_TOKEN }}
+      - name: Commit files
         run: |
           git config --local user.email "moviemonk64@gmail.com"
           git config --local user.name "movie-monk-b0t"
