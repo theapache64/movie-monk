@@ -43738,5 +43738,55 @@
     "magnetLink": "magnet:?xt\u003durn:btih:21b84971c8e225637958c7bd0aa7827dd3c8bcf0\u0026dn\u003dDangerous.Lies.2020.720p.NF.WEBRip.x264.AAC-ETRG\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969\u0026tr\u003dudp%3A%2F%2Fzer0day.ch%3A1337\u0026tr\u003dudp%3A%2F%2Fopen.demonii.com%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969\u0026tr\u003dudp%3A%2F%2Fexodus.desync.com%3A6969",
     "fileCount": 4,
     "fileSize": "875.21 MiB"
+  },
+  {
+    "baseName": "Dumbo (2019) [BluRay] [1080p]",
+    "baseUrl": "/torrent/33442623/Dumbo_(2019)_[BluRay]_[1080p]",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/33442623/Dumbo_(2019)_[BluRay]_[1080p]",
+    "imdbId": "tt3861390",
+    "infoUrl": "https://www.imdb.com/title/tt3861390/",
+    "title": "Dumbo",
+    "magnetLink": "magnet:?xt\u003durn:btih:542aff6b01a9132d8ec7da14382a8f429e62f77f\u0026dn\u003dDumbo+%282019%29+%5BBluRay%5D+%5B1080p%5D\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969\u0026tr\u003dudp%3A%2F%2Fzer0day.ch%3A1337\u0026tr\u003dudp%3A%2F%2Fopen.demonii.com%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969\u0026tr\u003dudp%3A%2F%2Fexodus.desync.com%3A6969",
+    "fileCount": 2,
+    "fileSize": "1.79 GiB",
+    "languages": "English",
+    "imdbRating": 6.3,
+    "imdbVoteCount": 59208,
+    "genre": "Adventure, Family, Fantasy",
+    "duration": "1 hour 52 minutes",
+    "year": 2019,
+    "releaseDate": "Mar 27 2019",
+    "plot": "Dumbo is a movie starring Colin Farrell, Michael Keaton, and Danny DeVito. A young elephant, whose oversized ears enable him to fly, helps save a struggling circus, but when the circus plans a new venture, Dumbo and his friends...",
+    "trailerUrl": "https://imdb.com/video/imdb/vi2482814233",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BNjMxMDE0MDI1Ml5BMl5BanBnXkFtZTgwMzExNTU3NjM@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Colin Farrell",
+        "@type": "Person",
+        "url": "/name/nm0268199/"
+      },
+      {
+        "name": "Michael Keaton",
+        "@type": "Person",
+        "url": "/name/nm0000474/"
+      },
+      {
+        "name": "Danny DeVito",
+        "@type": "Person",
+        "url": "/name/nm0000362/"
+      },
+      {
+        "name": "Eva Green",
+        "@type": "Person",
+        "url": "/name/nm1200692/"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Tim Burton",
+        "@type": "Person",
+        "url": "/name/nm0000318/"
+      }
+    ]
   }
 ]
