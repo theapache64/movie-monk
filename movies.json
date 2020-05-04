@@ -44743,5 +44743,87 @@
         "url": "/name/nm0628601/"
       }
     ]
+  },
+  {
+    "baseName": "Rick.and.Morty.S04E06.1080p.WEBRip.x264-CAFFEiNE[TGx]",
+    "baseUrl": "/torrent/36162705/Rick.and.Morty.S04E06.1080p.WEBRip.x264-CAFFEiNE[TGx]",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/36162705/Rick.and.Morty.S04E06.1080p.WEBRip.x264-CAFFEiNE[TGx]",
+    "imdbId": "tt2861424",
+    "infoUrl": "https://www.imdb.com/title/tt2861424",
+    "title": "Rick and Morty",
+    "magnetLink": "magnet:?xt\u003durn:btih:f8524142a368e332ef5f15920b303df30c3298db\u0026dn\u003dRick.and.Morty.S04E06.1080p.WEBRip.x264-CAFFEiNE%5BTGx%5D\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969\u0026tr\u003dudp%3A%2F%2Fzer0day.ch%3A1337\u0026tr\u003dudp%3A%2F%2Fopen.demonii.com%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969\u0026tr\u003dudp%3A%2F%2Fexodus.desync.com%3A6969",
+    "fileCount": 3,
+    "fileSize": "687.58 MiB",
+    "imdbRating": 9.2,
+    "imdbVoteCount": 334315,
+    "genre": "Animation, Adventure, Comedy, Sci-Fi",
+    "year": 2013,
+    "releaseDate": "Dec 02 2013",
+    "plot": "Rick and Morty is a TV series starring Justin Roiland, Chris Parnell, and Spencer Grammer. An animated series that follows the exploits of a super scientist and his not-so-bright grandson.",
+    "trailerUrl": "https://imdb.com/video/imdb/vi3733110297",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjRiNDRhNGUtMzRkZi00MThlLTg0ZDMtNjc5YzFjYmFjMmM4XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Justin Roiland",
+        "@type": "Person",
+        "url": "/name/nm1551598/"
+      },
+      {
+        "name": "Chris Parnell",
+        "@type": "Person",
+        "url": "/name/nm0663177/"
+      },
+      {
+        "name": "Spencer Grammer",
+        "@type": "Person",
+        "url": "/name/nm0334561/"
+      },
+      {
+        "name": "Sarah Chalke",
+        "@type": "Person",
+        "url": "/name/nm0149950/"
+      }
+    ]
+  },
+  {
+    "baseName": "Westworld.S03E08.Crisis.Theory.1080p.AMZN.WEB-DL.DDP5.1.H.264-NT",
+    "baseUrl": "/torrent/36162592/Westworld.S03E08.Crisis.Theory.1080p.AMZN.WEB-DL.DDP5.1.H.264-NT",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/36162592/Westworld.S03E08.Crisis.Theory.1080p.AMZN.WEB-DL.DDP5.1.H.264-NT",
+    "imdbId": "tt0475784",
+    "infoUrl": "https://www.imdb.com/title/tt0475784",
+    "title": "Westworld",
+    "magnetLink": "magnet:?xt\u003durn:btih:614c774ed5b7c252bb177b735293531f0336af51\u0026dn\u003dWestworld.S03E08.Crisis.Theory.1080p.AMZN.WEB-DL.DDP5.1.H.264-NT\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969\u0026tr\u003dudp%3A%2F%2Fzer0day.ch%3A1337\u0026tr\u003dudp%3A%2F%2Fopen.demonii.com%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969\u0026tr\u003dudp%3A%2F%2Fexodus.desync.com%3A6969",
+    "fileCount": 3,
+    "fileSize": "5.41 GiB",
+    "imdbRating": 8.7,
+    "imdbVoteCount": 394150,
+    "genre": "Drama, Mystery, Sci-Fi",
+    "year": 2016,
+    "releaseDate": "Oct 02 2016",
+    "plot": "Westworld is a TV series starring Evan Rachel Wood, Jeffrey Wright, and Ed Harris. Set at the intersection of the near future and the reimagined past, explore a world in which every human appetite can be indulged without consequence.",
+    "trailerUrl": "https://imdb.com/video/imdb/vi361872921",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTRmYzNmOTctZjMwOS00ODZlLWJiZGQtNDg5NDY5NjE3MTczXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Evan Rachel Wood",
+        "@type": "Person",
+        "url": "/name/nm0939697/"
+      },
+      {
+        "name": "Jeffrey Wright",
+        "@type": "Person",
+        "url": "/name/nm0942482/"
+      },
+      {
+        "name": "Ed Harris",
+        "@type": "Person",
+        "url": "/name/nm0000438/"
+      },
+      {
+        "name": "Thandie Newton",
+        "@type": "Person",
+        "url": "/name/nm0628601/"
+      }
+    ]
   }
 ]
