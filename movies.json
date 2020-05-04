@@ -44874,5 +44874,46 @@
     "magnetLink": "magnet:?xt\u003durn:btih:b299de5b046f5c4e3e6e60481d7df99a724a379f\u0026dn\u003dStar.Wars.The.Clone.Wars.S07E12.1080p.WEB.h264-SKGTV%5BTGx%5D\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969\u0026tr\u003dudp%3A%2F%2Fzer0day.ch%3A1337\u0026tr\u003dudp%3A%2F%2Fopen.demonii.com%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969\u0026tr\u003dudp%3A%2F%2Fexodus.desync.com%3A6969",
     "fileCount": 3,
     "fileSize": "1.36 GiB"
+  },
+  {
+    "baseName": "Killing.Eve.S03E04.720p.WEBRip.x264-XLF[TGx]",
+    "baseUrl": "/torrent/36162589/Killing.Eve.S03E04.720p.WEBRip.x264-XLF[TGx]",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/36162589/Killing.Eve.S03E04.720p.WEBRip.x264-XLF[TGx]",
+    "imdbId": "tt7016936",
+    "infoUrl": "https://www.imdb.com/title/tt7016936",
+    "title": "Killing Eve",
+    "magnetLink": "magnet:?xt\u003durn:btih:4f2458201618d759220e1166281a402e7eae7ebd\u0026dn\u003dKilling.Eve.S03E04.720p.WEBRip.x264-XLF%5BTGx%5D\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969\u0026tr\u003dudp%3A%2F%2Fzer0day.ch%3A1337\u0026tr\u003dudp%3A%2F%2Fopen.demonii.com%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969\u0026tr\u003dudp%3A%2F%2Fexodus.desync.com%3A6969",
+    "fileCount": 3,
+    "fileSize": "697.68 MiB",
+    "imdbRating": 8.3,
+    "imdbVoteCount": 68758,
+    "genre": "Action, Adventure, Drama, Thriller",
+    "year": 2018,
+    "releaseDate": "Apr 08 2018",
+    "plot": "Killing Eve is a TV series starring Sandra Oh, Jodie Comer, and Fiona Shaw. After a series of events, the lives of a security operative and an assassin become inextricably linked.",
+    "trailerUrl": "https://imdb.com/video/imdb/vi4271554073",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BZDJmODFjMzEtNTE4MS00OGViLTk4OGYtZjg3OGFhM2VlOTliXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Sandra Oh",
+        "@type": "Person",
+        "url": "/name/nm0644897/"
+      },
+      {
+        "name": "Jodie Comer",
+        "@type": "Person",
+        "url": "/name/nm3069650/"
+      },
+      {
+        "name": "Fiona Shaw",
+        "@type": "Person",
+        "url": "/name/nm0789716/"
+      },
+      {
+        "name": "Kim Bodnia",
+        "@type": "Person",
+        "url": "/name/nm0091035/"
+      }
+    ]
   }
 ]
