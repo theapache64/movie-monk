@@ -14,6 +14,7 @@ class TPBParser(
         private val INFO_URL_REGEX = "<dt>Info:<\\/dt> <dd><a href=\"(?<infoUrl>.+?)\"".toRegex()
         private val SPOKEN_LANGUAGES_REGEX = "<dt>Spoken language\\(s\\):<\\/dt> <dd>(?<languages>.+?)<\\/dd>".toRegex()
         private val IMDB_ID_REGEX = "https\\:\\/\\/www\\.imdb\\.com\\/title\\/(?<imdbId>\\w+\\d+)".toRegex()
+        private val SUPER_INFO_REGEX = "(?<infoUrl>https:\\/\\/(?:www\\.)?imdb\\.com\\/title\\/tt\\d+)".toRegex()
     }
 
     init {
@@ -43,10 +44,20 @@ class TPBParser(
     }
 
     fun getInfoUrl(): String? {
-        return StringUtils.getFromPattern(
+        var infoUrl = StringUtils.getFromPattern(
             htmlResponse,
             INFO_URL_REGEX, "infoUrl"
         ).firstOrNull()
+
+        if (infoUrl == null) {
+            infoUrl = StringUtils.getFromPattern(
+                htmlResponse,
+                SUPER_INFO_REGEX,
+                "infoUrl"
+            ).firstOrNull()
+        }
+
+        return infoUrl
     }
 
     fun getLanguages(): String? {

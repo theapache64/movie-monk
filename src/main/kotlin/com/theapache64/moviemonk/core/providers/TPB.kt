@@ -76,6 +76,7 @@ object TPB : MovieProvider {
         val fileSize = tpbParser.getFileSize()
         val languages = tpbParser.getLanguages()
         val infoUrl = tpbParser.getInfoUrl()
+        println("Info is $infoUrl")
 
         // IMDB data
         var title: String? = null
