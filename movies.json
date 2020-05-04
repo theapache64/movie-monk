@@ -44661,5 +44661,87 @@
         "url": "/name/nm0068587/"
       }
     ]
+  },
+  {
+    "baseName": "Westworld.S03E08.Crisis.Theory.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb",
+    "baseUrl": "/torrent/36162586/Westworld.S03E08.Crisis.Theory.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/36162586/Westworld.S03E08.Crisis.Theory.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb",
+    "imdbId": "tt0475784",
+    "infoUrl": "https://www.imdb.com/title/tt0475784",
+    "title": "Westworld",
+    "magnetLink": "magnet:?xt\u003durn:btih:2290db211d15ffbc8dd562c7df3d13b7dd47976d\u0026dn\u003dWestworld.S03E08.Crisis.Theory.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969\u0026tr\u003dudp%3A%2F%2Fzer0day.ch%3A1337\u0026tr\u003dudp%3A%2F%2Fopen.demonii.com%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969\u0026tr\u003dudp%3A%2F%2Fexodus.desync.com%3A6969",
+    "fileCount": 3,
+    "fileSize": "1.4 GiB",
+    "imdbRating": 8.7,
+    "imdbVoteCount": 394100,
+    "genre": "Drama, Mystery, Sci-Fi",
+    "year": 2016,
+    "releaseDate": "Oct 02 2016",
+    "plot": "Westworld is a TV series starring Evan Rachel Wood, Jeffrey Wright, and Ed Harris. Set at the intersection of the near future and the reimagined past, explore a world in which every human appetite can be indulged without consequence.",
+    "trailerUrl": "https://imdb.com/video/imdb/vi361872921",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTRmYzNmOTctZjMwOS00ODZlLWJiZGQtNDg5NDY5NjE3MTczXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Evan Rachel Wood",
+        "@type": "Person",
+        "url": "/name/nm0939697/"
+      },
+      {
+        "name": "Jeffrey Wright",
+        "@type": "Person",
+        "url": "/name/nm0942482/"
+      },
+      {
+        "name": "Ed Harris",
+        "@type": "Person",
+        "url": "/name/nm0000438/"
+      },
+      {
+        "name": "Thandie Newton",
+        "@type": "Person",
+        "url": "/name/nm0628601/"
+      }
+    ]
+  },
+  {
+    "baseName": "Westworld.S03E08.WEB.h264-TBS[TGx]",
+    "baseUrl": "/torrent/36162583/Westworld.S03E08.WEB.h264-TBS[TGx]",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/36162583/Westworld.S03E08.WEB.h264-TBS[TGx]",
+    "imdbId": "tt0475784",
+    "infoUrl": "https://www.imdb.com/title/tt0475784",
+    "title": "Westworld",
+    "magnetLink": "magnet:?xt\u003durn:btih:634af85a1dd36c018f705d17381d090b9c4b1a59\u0026dn\u003dWestworld.S03E08.WEB.h264-TBS%5BTGx%5D\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969\u0026tr\u003dudp%3A%2F%2Fzer0day.ch%3A1337\u0026tr\u003dudp%3A%2F%2Fopen.demonii.com%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969\u0026tr\u003dudp%3A%2F%2Fexodus.desync.com%3A6969",
+    "fileCount": 3,
+    "fileSize": "394.4 MiB",
+    "imdbRating": 8.7,
+    "imdbVoteCount": 394100,
+    "genre": "Drama, Mystery, Sci-Fi",
+    "year": 2016,
+    "releaseDate": "Oct 02 2016",
+    "plot": "Westworld is a TV series starring Evan Rachel Wood, Jeffrey Wright, and Ed Harris. Set at the intersection of the near future and the reimagined past, explore a world in which every human appetite can be indulged without consequence.",
+    "trailerUrl": "https://imdb.com/video/imdb/vi361872921",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTRmYzNmOTctZjMwOS00ODZlLWJiZGQtNDg5NDY5NjE3MTczXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Evan Rachel Wood",
+        "@type": "Person",
+        "url": "/name/nm0939697/"
+      },
+      {
+        "name": "Jeffrey Wright",
+        "@type": "Person",
+        "url": "/name/nm0942482/"
+      },
+      {
+        "name": "Ed Harris",
+        "@type": "Person",
+        "url": "/name/nm0000438/"
+      },
+      {
+        "name": "Thandie Newton",
+        "@type": "Person",
+        "url": "/name/nm0628601/"
+      }
+    ]
   }
 ]
