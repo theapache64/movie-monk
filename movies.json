@@ -45019,5 +45019,51 @@
         "url": "/name/nm4958428/"
       }
     ]
+  },
+  {
+    "baseName": "Inheritance.2020.720p.HDRip.800MB.x264-GalaxyRG",
+    "baseUrl": "/torrent/36164008/Inheritance.2020.720p.HDRip.800MB.x264-GalaxyRG",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/36164008/Inheritance.2020.720p.HDRip.800MB.x264-GalaxyRG",
+    "imdbId": "tt7923220",
+    "infoUrl": "https://www.imdb.com/title/tt7923220",
+    "title": "Inheritance",
+    "magnetLink": "magnet:?xt\u003durn:btih:749a764a287ded6de555aefb4db6aa43ea67d5bd\u0026dn\u003dInheritance.2020.720p.HDRip.800MB.x264-GalaxyRG\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969\u0026tr\u003dudp%3A%2F%2Fzer0day.ch%3A1337\u0026tr\u003dudp%3A%2F%2Fopen.demonii.com%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969\u0026tr\u003dudp%3A%2F%2Fexodus.desync.com%3A6969",
+    "fileCount": 3,
+    "fileSize": "797.33 MiB",
+    "genre": "Drama, Mystery, Thriller",
+    "year": 2020,
+    "releaseDate": "May 22 2020",
+    "plot": "Inheritance is a movie starring Lily Collins, Connie Nielsen, and Simon Pegg. A patriarch of a wealthy and powerful family suddenly passes away, leaving his wife and daughter with a shocking secret inheritance that threatens to...",
+    "trailerUrl": "https://imdb.com/video/imdb/vi2559819289",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BYTYzZjE4NmEtZjQ2NC00NjNjLTlhNTItNjM3YTA3YTQyODk1XkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Lily Collins",
+        "@type": "Person",
+        "url": "/name/nm2934314/"
+      },
+      {
+        "name": "Connie Nielsen",
+        "@type": "Person",
+        "url": "/name/nm0001567/"
+      },
+      {
+        "name": "Simon Pegg",
+        "@type": "Person",
+        "url": "/name/nm0670408/"
+      },
+      {
+        "name": "Chace Crawford",
+        "@type": "Person",
+        "url": "/name/nm2003700/"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Vaughn Stein",
+        "@type": "Person",
+        "url": "/name/nm2389363/"
+      }
+    ]
   }
 ]
