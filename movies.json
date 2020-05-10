@@ -45789,5 +45789,47 @@
     "magnetLink": "magnet:?xt\u003durn:btih:e274678135d2c7974168c073dd752fb565d0d7b7\u0026dn\u003dUFC.249.Prelims.720p.WEB-DL.H264.Fight-BB\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969\u0026tr\u003dudp%3A%2F%2Fzer0day.ch%3A1337\u0026tr\u003dudp%3A%2F%2Fopen.demonii.com%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969\u0026tr\u003dudp%3A%2F%2Fexodus.desync.com%3A6969",
     "fileCount": 2,
     "fileSize": "2.19 GiB"
+  },
+  {
+    "baseName": "The.Mandalorian.S01E03.1080p.WEB.H264-PETRiFiED[TGx]",
+    "baseUrl": "/torrent/35050001/The.Mandalorian.S01E03.1080p.WEB.H264-PETRiFiED[TGx]",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/35050001/The.Mandalorian.S01E03.1080p.WEB.H264-PETRiFiED[TGx]",
+    "imdbId": "tt8111088",
+    "infoUrl": "https://www.imdb.com/title/tt8111088",
+    "title": "The Mandalorian",
+    "magnetLink": "magnet:?xt\u003durn:btih:5b6f9931aa240d4b7e33d59305baa65ffcc78903\u0026dn\u003dThe.Mandalorian.S01E03.1080p.WEB.H264-PETRiFiED%5BTGx%5D\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969\u0026tr\u003dudp%3A%2F%2Fzer0day.ch%3A1337\u0026tr\u003dudp%3A%2F%2Fopen.demonii.com%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969\u0026tr\u003dudp%3A%2F%2Fexodus.desync.com%3A6969",
+    "fileCount": 7,
+    "fileSize": "2.32 GiB",
+    "languages": "English",
+    "imdbRating": 8.7,
+    "imdbVoteCount": 165736,
+    "genre": "Action, Adventure, Sci-Fi",
+    "year": 2019,
+    "releaseDate": "Nov 12 2019",
+    "plot": "The Mandalorian is a TV series starring Pedro Pascal, Carl Weathers, and Rio Hackford. The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic.",
+    "trailerUrl": "https://imdb.com/video/imdb/vi2033827609",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMWI0OTJlYTItNzMwZi00YzRiLWJhMjItMWRlMDNhZjNiMzJkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Pedro Pascal",
+        "@type": "Person",
+        "url": "/name/nm0050959/"
+      },
+      {
+        "name": "Carl Weathers",
+        "@type": "Person",
+        "url": "/name/nm0001835/"
+      },
+      {
+        "name": "Rio Hackford",
+        "@type": "Person",
+        "url": "/name/nm0352513/"
+      },
+      {
+        "name": "Gina Carano",
+        "@type": "Person",
+        "url": "/name/nm2442289/"
+      }
+    ]
   }
 ]
