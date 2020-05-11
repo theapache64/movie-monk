@@ -46105,5 +46105,55 @@
         "url": "/name/nm0001639/"
       }
     ]
+  },
+  {
+    "baseName": "Harry Potter and The Half Blood Prince (2009) 720p - 650MB- YIFY",
+    "baseUrl": "/torrent/5588926/Harry_Potter_and_The_Half_Blood_Prince_(2009)_720p_-_650MB-_YIFY",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/5588926/Harry_Potter_and_The_Half_Blood_Prince_(2009)_720p_-_650MB-_YIFY",
+    "imdbId": "tt0417741",
+    "infoUrl": "https://www.imdb.com/title/tt0417741/",
+    "title": "Harry Potter and the Half-Blood Prince",
+    "magnetLink": "magnet:?xt\u003durn:btih:a3fe0ab5ec6aeb66ec955202998933e9c239ae1b\u0026dn\u003dHarry+Potter+and+The+Half+Blood+Prince+%282009%29+720p+-+650MB-+YIFY\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969\u0026tr\u003dudp%3A%2F%2Fzer0day.ch%3A1337\u0026tr\u003dudp%3A%2F%2Fopen.demonii.com%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969\u0026tr\u003dudp%3A%2F%2Fexodus.desync.com%3A6969",
+    "fileCount": 1,
+    "fileSize": "651.16 MiB",
+    "languages": "English",
+    "imdbRating": 7.6,
+    "imdbVoteCount": 448609,
+    "genre": "Action, Adventure, Family, Fantasy, Mystery",
+    "duration": "2 hours 33 minutes",
+    "year": 2009,
+    "releaseDate": "Jul 15 2009",
+    "plot": "Harry Potter and the Half-Blood Prince is a movie starring Daniel Radcliffe, Emma Watson, and Rupert Grint. As Harry Potter (Daniel Radcliffe) begins his sixth year at Hogwarts, he discovers an old book marked as \"the property of...",
+    "trailerUrl": "https://imdb.com/video/imdb/vi1061421849",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BNzU3NDg4NTAyNV5BMl5BanBnXkFtZTcwOTg2ODg1Mg@@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Daniel Radcliffe",
+        "@type": "Person",
+        "url": "/name/nm0705356/"
+      },
+      {
+        "name": "Emma Watson",
+        "@type": "Person",
+        "url": "/name/nm0914612/"
+      },
+      {
+        "name": "Rupert Grint",
+        "@type": "Person",
+        "url": "/name/nm0342488/"
+      },
+      {
+        "name": "Michael Gambon",
+        "@type": "Person",
+        "url": "/name/nm0002091/"
+      }
+    ],
+    "directors": [
+      {
+        "name": "David Yates",
+        "@type": "Person",
+        "url": "/name/nm0946734/"
+      }
+    ]
   }
 ]
