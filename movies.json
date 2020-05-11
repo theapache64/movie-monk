@@ -46155,5 +46155,87 @@
         "url": "/name/nm0946734/"
       }
     ]
+  },
+  {
+    "baseName": "Rick.and.Morty.S04E07.1080p.WEBRip.x264-BTX[TGx]",
+    "baseUrl": "/torrent/36172932/Rick.and.Morty.S04E07.1080p.WEBRip.x264-BTX[TGx]",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/36172932/Rick.and.Morty.S04E07.1080p.WEBRip.x264-BTX[TGx]",
+    "imdbId": "tt2861424",
+    "infoUrl": "https://www.imdb.com/title/tt2861424",
+    "title": "Rick and Morty",
+    "magnetLink": "magnet:?xt\u003durn:btih:103e82b9be53970ebc6a55e64db0bcc8ee1da0b0\u0026dn\u003dRick.and.Morty.S04E07.1080p.WEBRip.x264-BTX%5BTGx%5D\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969\u0026tr\u003dudp%3A%2F%2Fzer0day.ch%3A1337\u0026tr\u003dudp%3A%2F%2Fopen.demonii.com%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969\u0026tr\u003dudp%3A%2F%2Fexodus.desync.com%3A6969",
+    "fileCount": 2,
+    "fileSize": "768.99 MiB",
+    "imdbRating": 9.2,
+    "imdbVoteCount": 335748,
+    "genre": "Animation, Adventure, Comedy, Sci-Fi",
+    "year": 2013,
+    "releaseDate": "Dec 02 2013",
+    "plot": "Rick and Morty is a TV series starring Justin Roiland, Chris Parnell, and Spencer Grammer. An animated series that follows the exploits of a super scientist and his not-so-bright grandson.",
+    "trailerUrl": "https://imdb.com/video/imdb/vi3733110297",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjRiNDRhNGUtMzRkZi00MThlLTg0ZDMtNjc5YzFjYmFjMmM4XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Justin Roiland",
+        "@type": "Person",
+        "url": "/name/nm1551598/"
+      },
+      {
+        "name": "Chris Parnell",
+        "@type": "Person",
+        "url": "/name/nm0663177/"
+      },
+      {
+        "name": "Spencer Grammer",
+        "@type": "Person",
+        "url": "/name/nm0334561/"
+      },
+      {
+        "name": "Sarah Chalke",
+        "@type": "Person",
+        "url": "/name/nm0149950/"
+      }
+    ]
+  },
+  {
+    "baseName": "Rick.and.Morty.S04E07.WEBRip.x264-CAFFEiNE[TGx]",
+    "baseUrl": "/torrent/36172925/Rick.and.Morty.S04E07.WEBRip.x264-CAFFEiNE[TGx]",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/36172925/Rick.and.Morty.S04E07.WEBRip.x264-CAFFEiNE[TGx]",
+    "imdbId": "tt2861424",
+    "infoUrl": "https://www.imdb.com/title/tt2861424",
+    "title": "Rick and Morty",
+    "magnetLink": "magnet:?xt\u003durn:btih:eb2c358888c3c8e067b6854e5e6b0761c40d5393\u0026dn\u003dRick.and.Morty.S04E07.WEBRip.x264-CAFFEiNE%5BTGx%5D\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969\u0026tr\u003dudp%3A%2F%2Fzer0day.ch%3A1337\u0026tr\u003dudp%3A%2F%2Fopen.demonii.com%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969\u0026tr\u003dudp%3A%2F%2Fexodus.desync.com%3A6969",
+    "fileCount": 2,
+    "fileSize": "159.58 MiB",
+    "imdbRating": 9.2,
+    "imdbVoteCount": 335748,
+    "genre": "Animation, Adventure, Comedy, Sci-Fi",
+    "year": 2013,
+    "releaseDate": "Dec 02 2013",
+    "plot": "Rick and Morty is a TV series starring Justin Roiland, Chris Parnell, and Spencer Grammer. An animated series that follows the exploits of a super scientist and his not-so-bright grandson.",
+    "trailerUrl": "https://imdb.com/video/imdb/vi3733110297",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjRiNDRhNGUtMzRkZi00MThlLTg0ZDMtNjc5YzFjYmFjMmM4XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Justin Roiland",
+        "@type": "Person",
+        "url": "/name/nm1551598/"
+      },
+      {
+        "name": "Chris Parnell",
+        "@type": "Person",
+        "url": "/name/nm0663177/"
+      },
+      {
+        "name": "Spencer Grammer",
+        "@type": "Person",
+        "url": "/name/nm0334561/"
+      },
+      {
+        "name": "Sarah Chalke",
+        "@type": "Person",
+        "url": "/name/nm0149950/"
+      }
+    ]
   }
 ]
