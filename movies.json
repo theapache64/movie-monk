@@ -46055,5 +46055,55 @@
         "url": "/name/nm2442289/"
       }
     ]
+  },
+  {
+    "baseName": "Knowing (2009) 720p BrRip x264 - 750MB - YIFY",
+    "baseUrl": "/torrent/7301254/Knowing_(2009)_720p_BrRip_x264_-_750MB_-_YIFY",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/7301254/Knowing_(2009)_720p_BrRip_x264_-_750MB_-_YIFY",
+    "imdbId": "tt0448011",
+    "infoUrl": "https://www.imdb.com/title/tt0448011/",
+    "title": "Knowing",
+    "magnetLink": "magnet:?xt\u003durn:btih:d5f9917b9a288b3cb898581c8a733fffa420e264\u0026dn\u003dKnowing+%282009%29+720p+BrRip+x264+-+750MB+-+YIFY\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969\u0026tr\u003dudp%3A%2F%2Fzer0day.ch%3A1337\u0026tr\u003dudp%3A%2F%2Fopen.demonii.com%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969\u0026tr\u003dudp%3A%2F%2Fexodus.desync.com%3A6969",
+    "fileCount": 6,
+    "fileSize": "700.24 MiB",
+    "languages": "English",
+    "imdbRating": 6.2,
+    "imdbVoteCount": 215538,
+    "genre": "Drama, Mystery, Sci-Fi, Thriller",
+    "duration": "2 hours 1 minute",
+    "year": 2009,
+    "releaseDate": "Mar 19 2009",
+    "plot": "Knowing is a movie starring Nicolas Cage, Chandler Canterbury, and Rose Byrne. M.I.T. professor John Koestler links a mysterious list of numbers from a time capsule to past and future disasters and sets out to prevent the ultimate...",
+    "trailerUrl": "https://imdb.com/video/imdb/vi3391554329",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTMyMjgyMDIyM15BMl5BanBnXkFtZTcwNjg3MjAyMg@@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Nicolas Cage",
+        "@type": "Person",
+        "url": "/name/nm0000115/"
+      },
+      {
+        "name": "Chandler Canterbury",
+        "@type": "Person",
+        "url": "/name/nm2425105/"
+      },
+      {
+        "name": "Rose Byrne",
+        "@type": "Person",
+        "url": "/name/nm0126284/"
+      },
+      {
+        "name": "Lara Robinson",
+        "@type": "Person",
+        "url": "/name/nm3041648/"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Alex Proyas",
+        "@type": "Person",
+        "url": "/name/nm0001639/"
+      }
+    ]
   }
 ]
