@@ -46606,5 +46606,102 @@
       }
     ],
     "screensUrls": []
+  },
+  {
+    "baseName": "Dragon.Soldiers.2020.720p.WEBRip.800MB.x264-GalaxyRG",
+    "baseUrl": "/torrent/36172870/Dragon.Soldiers.2020.720p.WEBRip.800MB.x264-GalaxyRG",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/36172870/Dragon.Soldiers.2020.720p.WEBRip.800MB.x264-GalaxyRG",
+    "imdbId": "tt12038670",
+    "infoUrl": "https://www.imdb.com/title/tt12038670",
+    "title": "Dragon Soldiers",
+    "magnetLink": "magnet:?xt\u003durn:btih:65346e69f1d0d111c8752b7bed6a298f43d6d6ad\u0026dn\u003dDragon.Soldiers.2020.720p.WEBRip.800MB.x264-GalaxyRG\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969\u0026tr\u003dudp%3A%2F%2Fzer0day.ch%3A1337\u0026tr\u003dudp%3A%2F%2Fopen.demonii.com%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969\u0026tr\u003dudp%3A%2F%2Fexodus.desync.com%3A6969",
+    "fileCount": 3,
+    "fileSize": "796.65 MiB",
+    "imdbRating": 2.3,
+    "imdbVoteCount": 33,
+    "genre": "Action",
+    "year": 2020,
+    "releaseDate": "May 11 2020",
+    "plot": "Dragon Soldiers is a movie starring Tarkan Dospil, Motown Maurice, and Ruben Pla. In a suburban town, a deadly monster lurks in the surrounding forest, killing all those who wander too close. Desperate to stop the attack, a group of...",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BYjZiMWRkYjgtN2M5Yi00NTdlLWJkMzctNjNhNTcwM2NlNDFmXkEyXkFqcGdeQXVyMzIxNDc0Ng@@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Tarkan Dospil",
+        "@type": "Person",
+        "url": "/name/nm2691161/"
+      },
+      {
+        "name": "Motown Maurice",
+        "@type": "Person",
+        "url": "/name/nm4737737/"
+      },
+      {
+        "name": "Ruben Pla",
+        "@type": "Person",
+        "url": "/name/nm0006604/"
+      },
+      {
+        "name": "Dan Sinclair",
+        "@type": "Person",
+        "url": "/name/nm3708056/"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Hank Braxtan",
+        "@type": "Person",
+        "url": "/name/nm1802040/"
+      }
+    ]
+  },
+  {
+    "baseName": "Us.2019.1080p.Dual.Lat.Cinecalidad",
+    "baseUrl": "/torrent/33634641/Us.2019.1080p.Dual.Lat.Cinecalidad",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/33634641/Us.2019.1080p.Dual.Lat.Cinecalidad",
+    "imdbId": "tt6857112",
+    "infoUrl": "https://www.imdb.com/title/tt6857112/",
+    "title": "Us",
+    "magnetLink": "magnet:?xt\u003durn:btih:a79c752b5b4aba8bc9b776d8c4e4ee1b168024fc\u0026dn\u003dUs.2019.1080p.Dual.Lat.Cinecalidad\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969\u0026tr\u003dudp%3A%2F%2Fzer0day.ch%3A1337\u0026tr\u003dudp%3A%2F%2Fopen.demonii.com%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969\u0026tr\u003dudp%3A%2F%2Fexodus.desync.com%3A6969",
+    "fileCount": 1,
+    "fileSize": "1.87 GiB",
+    "languages": "Spanish",
+    "imdbRating": 6.9,
+    "imdbVoteCount": 197934,
+    "genre": "Horror, Mystery, Thriller",
+    "duration": "1 hour 56 minutes",
+    "year": 2019,
+    "releaseDate": "Mar 20 2019",
+    "plot": "Us is a movie starring Lupita Nyong\u0027o, Winston Duke, and Elisabeth Moss. A family\u0027s serene beach vacation turns to chaos when their doppelgängers appear and begin to terrorize them.",
+    "trailerUrl": "https://imdb.com/video/imdb/vi1333246489",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BZTliNWJhM2YtNDc1MC00YTk1LWE2MGYtZmE4M2Y5ODdlNzQzXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Lupita Nyong\u0027o",
+        "@type": "Person",
+        "url": "/name/nm2143282/"
+      },
+      {
+        "name": "Winston Duke",
+        "@type": "Person",
+        "url": "/name/nm6328300/"
+      },
+      {
+        "name": "Elisabeth Moss",
+        "@type": "Person",
+        "url": "/name/nm0005253/"
+      },
+      {
+        "name": "Tim Heidecker",
+        "@type": "Person",
+        "url": "/name/nm1727367/"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Jordan Peele",
+        "@type": "Person",
+        "url": "/name/nm1443502/"
+      }
+    ]
   }
 ]
