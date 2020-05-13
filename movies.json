@@ -47308,5 +47308,46 @@
       }
     ],
     "screensUrls": []
+  },
+  {
+    "baseName": "The.Flash.2014.S06E19.720p.HDTV.x265-MiNX[TGx]",
+    "baseUrl": "/torrent/36175833/The.Flash.2014.S06E19.720p.HDTV.x265-MiNX[TGx]",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/36175833/The.Flash.2014.S06E19.720p.HDTV.x265-MiNX[TGx]",
+    "imdbId": "tt3107288",
+    "infoUrl": "https://www.imdb.com/title/tt3107288",
+    "title": "The Flash",
+    "magnetLink": "magnet:?xt\u003durn:btih:A80A69775CE6ABA6B3A4EE22874A111C9A48CFB2\u0026dn\u003dThe.Flash.2014.S06E19.720p.HDTV.x265-MiNX%5BTGx%5D\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 2,
+    "fileSize": "188.31 MiB",
+    "imdbRating": 7.7,
+    "imdbVoteCount": 295575,
+    "genre": "Action, Adventure, Drama, Sci-Fi",
+    "year": 2014,
+    "releaseDate": "Oct 07 2014",
+    "plot": "The Flash is a TV series starring Grant Gustin, Candice Patton, and Danielle Panabaker. After being struck by lightning, Barry Allen wakes up from his coma to discover he\u0027s been given the power of super speed, becoming the Flash,...",
+    "trailerUrl": "https://imdb.com/video/imdb/vi1195032345",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjAwNTljOTgtYzk0NS00OGMzLTgzMDUtZDc2YjhjNzU3Yjg5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Grant Gustin",
+        "@type": "Person",
+        "url": "/name/nm2652716/"
+      },
+      {
+        "name": "Candice Patton",
+        "@type": "Person",
+        "url": "/name/nm2765384/"
+      },
+      {
+        "name": "Danielle Panabaker",
+        "@type": "Person",
+        "url": "/name/nm1263939/"
+      },
+      {
+        "name": "Carlos Valdes",
+        "@type": "Person",
+        "url": "/name/nm4583876/"
+      }
+    ]
   }
 ]
