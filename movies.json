@@ -48327,5 +48327,54 @@
         "url": "/name/nm0148999/"
       }
     ]
+  },
+  {
+    "baseName": "Proximity.2020.720p.WEBRip.800MB.x264-GalaxyRG",
+    "baseUrl": "/torrent/36179622/Proximity.2020.720p.WEBRip.800MB.x264-GalaxyRG",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/36179622/Proximity.2020.720p.WEBRip.800MB.x264-GalaxyRG",
+    "imdbId": "tt8718300",
+    "infoUrl": "https://www.imdb.com/title/tt8718300",
+    "title": "Proximity",
+    "magnetLink": "magnet:?xt\u003durn:btih:662F9A666DF3AA30C8CEC5448192FAB57CC1592F\u0026dn\u003dProximity.2020.720p.WEBRip.800MB.x264-GalaxyRG\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 3,
+    "fileSize": "797.59 MiB",
+    "imdbRating": 5.5,
+    "imdbVoteCount": 39,
+    "genre": "Drama, Sci-Fi",
+    "duration": "1 hour 59 minutes",
+    "year": 2020,
+    "releaseDate": "May 15 2020",
+    "plot": "Proximity is a movie starring Ryan Masson, Highdee Kuan, and Christian Prentice. A young NASA JPL scientist is abducted by extraterrestrials but when no one believes his story he becomes obsessed with finding proof which leads him...",
+    "trailerUrl": "https://imdb.com/video/imdb/vi1995947545",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BNzFjYTFkZjItZDI1Zi00MzExLTg1ODctMWQ0ZTc2YTRhZmM4XkEyXkFqcGdeQXVyMjU1NjU1NDU@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Ryan Masson",
+        "@type": "Person",
+        "url": "/name/nm2705736/"
+      },
+      {
+        "name": "Highdee Kuan",
+        "@type": "Person",
+        "url": "/name/nm7561503/"
+      },
+      {
+        "name": "Christian Prentice",
+        "@type": "Person",
+        "url": "/name/nm4648796/"
+      },
+      {
+        "name": "Shaw Jones",
+        "@type": "Person",
+        "url": "/name/nm0429236/"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Eric Demeusy",
+        "@type": "Person",
+        "url": "/name/nm4383646/"
+      }
+    ]
   }
 ]
