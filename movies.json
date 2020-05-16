@@ -48440,5 +48440,46 @@
     "year": 2020,
     "releaseDate": "May 15 2020",
     "posterUrl": "https://m.media-amazon.com/images/M/MV5BODdkYWI0NzktZjRjOC00ZmNkLWEwOGEtMmM1NDRjOTA3ZTMzXkEyXkFqcGdeQXVyMTA0ODg1MjI5._V1_.jpg"
+  },
+  {
+    "baseName": "White.Lines.S01.COMPLETE.720p.NF.WEBRip.x264-GalaxyTV",
+    "baseUrl": "/torrent/36180147/White.Lines.S01.COMPLETE.720p.NF.WEBRip.x264-GalaxyTV",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/36180147/White.Lines.S01.COMPLETE.720p.NF.WEBRip.x264-GalaxyTV",
+    "imdbId": "tt9073958",
+    "infoUrl": "https://www.imdb.com/title/tt9073958",
+    "title": "White Lines",
+    "magnetLink": "magnet:?xt\u003durn:btih:916F569090491A6143A2F28A62635607181D385D\u0026dn\u003dWhite.Lines.S01.COMPLETE.720p.NF.WEBRip.x264-GalaxyTV\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 11,
+    "fileSize": "4.28 GiB",
+    "imdbRating": 5.7,
+    "imdbVoteCount": 352,
+    "genre": "Drama, Mystery",
+    "year": 2020,
+    "releaseDate": "May 15 2020",
+    "plot": "White Lines is a TV series starring Laura Haddock, Nuno Lopes, and Marta Milans. A woman tries to solve the mysterious death of her brother, a famous DJ who disappeared from Ibiza many years ago.",
+    "trailerUrl": "https://imdb.com/video/imdb/vi1256111641",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMDA1MjMyOTItZDdiZS00MjFhLThmYTYtNWI4YTE4MzJiMWRiXkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Laura Haddock",
+        "@type": "Person",
+        "url": "/name/nm2652095/"
+      },
+      {
+        "name": "Nuno Lopes",
+        "@type": "Person",
+        "url": "/name/nm0519933/"
+      },
+      {
+        "name": "Marta Milans",
+        "@type": "Person",
+        "url": "/name/nm2803689/"
+      },
+      {
+        "name": "Daniel Mays",
+        "@type": "Person",
+        "url": "/name/nm0990547/"
+      }
+    ]
   }
 ]
