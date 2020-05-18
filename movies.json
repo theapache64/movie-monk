@@ -48792,5 +48792,46 @@
         "url": "/name/nm0449807/"
       }
     ]
+  },
+  {
+    "baseName": "The.Last.Dance.S01E10.720p.HDTV.x264-BRISK[TGx]",
+    "baseUrl": "/torrent/36184480/The.Last.Dance.S01E10.720p.HDTV.x264-BRISK[TGx]",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/36184480/The.Last.Dance.S01E10.720p.HDTV.x264-BRISK[TGx]",
+    "imdbId": "tt8420184",
+    "infoUrl": "https://www.imdb.com/title/tt8420184",
+    "title": "The Last Dance",
+    "magnetLink": "magnet:?xt\u003durn:btih:C046B139F993B741D9F4D4C5E3144779DCB9CBF7\u0026dn\u003dThe.Last.Dance.S01E10.720p.HDTV.x264-BRISK%5BTGx%5D\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 3,
+    "fileSize": "1.92 GiB",
+    "imdbRating": 9.4,
+    "imdbVoteCount": 17798,
+    "genre": "Documentary, Biography, History, Sport",
+    "year": 2020,
+    "releaseDate": "Apr 19 2020",
+    "plot": "The Last Dance is a TV series starring Michael Jordan, Phil Jackson, and David Aldridge. Charting the rise of the 1990\u0027s Chicago Bulls, led by Michael Jordan, one of the most notable dynasties in sports history.",
+    "trailerUrl": "https://imdb.com/video/imdb/vi4043226649",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BY2U1ZTU4OWItNGU2MC00MTg1LTk4NzUtYTk3ODhjYjI0MzlmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Michael Jordan",
+        "@type": "Person",
+        "url": "/name/nm0003044/"
+      },
+      {
+        "name": "Phil Jackson",
+        "@type": "Person",
+        "url": "/name/nm0413944/"
+      },
+      {
+        "name": "David Aldridge",
+        "@type": "Person",
+        "url": "/name/nm0017718/"
+      },
+      {
+        "name": "Steve Kerr",
+        "@type": "Person",
+        "url": "/name/nm0449807/"
+      }
+    ]
   }
 ]
