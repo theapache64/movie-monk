@@ -50092,5 +50092,58 @@
         "url": "/name/nm1493163/"
       }
     ]
+  },
+  {
+    "baseName": "Sex.And.The.Future.2020.720p.WEBRip.800MB.x264-GalaxyRG",
+    "baseUrl": "/torrent/36192242/Sex.And.The.Future.2020.720p.WEBRip.800MB.x264-GalaxyRG",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/36192242/Sex.And.The.Future.2020.720p.WEBRip.800MB.x264-GalaxyRG",
+    "imdbId": "tt7541838",
+    "infoUrl": "https://www.imdb.com/title/tt7541838",
+    "title": "Sex and the Future",
+    "magnetLink": "magnet:?xt\u003durn:btih:204C6D9954FC14DFCE25B179A049A83FEE1595CC\u0026dn\u003dSex.And.The.Future.2020.720p.WEBRip.800MB.x264-GalaxyRG\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 3,
+    "fileSize": "796.57 MiB",
+    "imdbRating": 2.6,
+    "imdbVoteCount": 37,
+    "genre": "Comedy",
+    "duration": "1 hour 30 minutes",
+    "year": 2020,
+    "releaseDate": "Apr 01 2020",
+    "plot": "Sex and the Future is a movie starring Kristel Elling, Ellie Patrikios, and Janet Lopez. When misfits Barry and Evan design their ideal woman as a robot, they realize a fortune could be made if they had the money to mass produce...",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BNGVlZGNhYjctMWJjNC00YWM0LTk3Y2YtZWIxMzMyNjY2YWIyXkEyXkFqcGdeQXVyMTQ2OTU2OTQ@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Kristel Elling",
+        "@type": "Person",
+        "url": "/name/nm0254128/"
+      },
+      {
+        "name": "Ellie Patrikios",
+        "@type": "Person",
+        "url": "/name/nm5057757/"
+      },
+      {
+        "name": "Janet Lopez",
+        "@type": "Person",
+        "url": "/name/nm2647980/"
+      },
+      {
+        "name": "Angel Garet",
+        "@type": "Person",
+        "url": "/name/nm4908999/"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Luis Carlos Hueck",
+        "@type": "Person",
+        "url": "/name/nm1996251/"
+      },
+      {
+        "name": "Ethan Zvi Kaplan",
+        "@type": "Person",
+        "url": "/name/nm8585522/"
+      }
+    ]
   }
 ]
