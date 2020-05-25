@@ -50425,5 +50425,46 @@
         "url": "/name/nm0149950/"
       }
     ]
+  },
+  {
+    "baseName": "Stargirl.S01E02.WEB.x264-PHOENiX[TGx]",
+    "baseUrl": "/torrent/36195239/Stargirl.S01E02.WEB.x264-PHOENiX[TGx]",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/36195239/Stargirl.S01E02.WEB.x264-PHOENiX[TGx]",
+    "imdbId": "tt8722888",
+    "infoUrl": "https://www.imdb.com/title/tt8722888",
+    "title": "Stargirl",
+    "magnetLink": "magnet:?xt\u003durn:btih:CC4915B30824D3D22CBCB1160A9A6CFE7D558E21\u0026dn\u003dStargirl.S01E02.WEB.x264-PHOENiX%5BTGx%5D\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 2,
+    "fileSize": "297.38 MiB",
+    "imdbRating": 7.8,
+    "imdbVoteCount": 1432,
+    "genre": "Action, Adventure, Crime, Drama, Fantasy, Sci-Fi",
+    "year": 2020,
+    "releaseDate": "May 18 2020",
+    "plot": "Stargirl is a TV series starring Brec Bassinger, Yvette Monreal, and Anjelika Washington. Teenager Courtney Whitmore joins the Justice Society of America. Based on the character from DC Comics.",
+    "trailerUrl": "https://imdb.com/video/imdb/vi794935065",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BODgzN2MwYWQtZGI2OS00N2RjLTkwYTktM2ZlYzE3OTRlYTRlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Brec Bassinger",
+        "@type": "Person",
+        "url": "/name/nm5561229/"
+      },
+      {
+        "name": "Yvette Monreal",
+        "@type": "Person",
+        "url": "/name/nm6060991/"
+      },
+      {
+        "name": "Anjelika Washington",
+        "@type": "Person",
+        "url": "/name/nm5682314/"
+      },
+      {
+        "name": "Trae Romano",
+        "@type": "Person",
+        "url": "/name/nm9288587/"
+      }
+    ]
   }
 ]
