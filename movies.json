@@ -50761,5 +50761,55 @@
         "url": "/name/nm0460146/"
       }
     ]
+  },
+  {
+    "baseName": "Avatar - Extended Collectors Edition (2009) 1080p BrRip x264 -",
+    "baseUrl": "/torrent/8397897/Avatar_-_Extended_Collectors_Edition_(2009)__1080p_BrRip_x264_-",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/8397897/Avatar_-_Extended_Collectors_Edition_(2009)__1080p_BrRip_x264_-",
+    "imdbId": "tt0499549",
+    "infoUrl": "https://www.imdb.com/title/tt0499549/",
+    "title": "Avatar",
+    "magnetLink": "magnet:?xt\u003durn:btih:539390D341F8C18400052ED905F77E48D6EBE40E\u0026dn\u003dAvatar+-+Extended+Collectors+Edition+%282009%29++1080p+BrRip+x264+-\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 3,
+    "fileSize": "4 GiB",
+    "languages": "English",
+    "imdbRating": 7.8,
+    "imdbVoteCount": 1092204,
+    "genre": "Action, Adventure, Fantasy, Sci-Fi",
+    "duration": "2 hours 42 minutes",
+    "year": 2009,
+    "releaseDate": "Dec 16 2009",
+    "plot": "Avatar is a movie starring Sam Worthington, Zoe Saldana, and Sigourney Weaver. A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his...",
+    "trailerUrl": "https://imdb.com/video/imdb/vi531039513",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Sam Worthington",
+        "@type": "Person",
+        "url": "/name/nm0941777/"
+      },
+      {
+        "name": "Zoe Saldana",
+        "@type": "Person",
+        "url": "/name/nm0757855/"
+      },
+      {
+        "name": "Sigourney Weaver",
+        "@type": "Person",
+        "url": "/name/nm0000244/"
+      },
+      {
+        "name": "Michelle Rodriguez",
+        "@type": "Person",
+        "url": "/name/nm0735442/"
+      }
+    ],
+    "directors": [
+      {
+        "name": "James Cameron",
+        "@type": "Person",
+        "url": "/name/nm0000116/"
+      }
+    ]
   }
 ]
