@@ -50861,5 +50861,55 @@
         "url": "/name/nm0001392/"
       }
     ]
+  },
+  {
+    "baseName": "Snowpiercer (2013) 1080p BrRip x264 - YIFY",
+    "baseUrl": "/torrent/9908452/Snowpiercer_(2013)_1080p_BrRip_x264_-_YIFY",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/9908452/Snowpiercer_(2013)_1080p_BrRip_x264_-_YIFY",
+    "imdbId": "tt1706620",
+    "infoUrl": "https://www.imdb.com/title/tt1706620/",
+    "title": "Snowpiercer",
+    "magnetLink": "magnet:?xt\u003durn:btih:FE305724B1EA9F0FB142A6A46D425160F3C458E8\u0026dn\u003dSnowpiercer+%282013%29+1080p+BrRip+x264+-+YIFY\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 2,
+    "fileSize": "1.94 GiB",
+    "languages": "English",
+    "imdbRating": 7.1,
+    "imdbVoteCount": 288537,
+    "genre": "Action, Drama, Sci-Fi",
+    "duration": "2 hours 6 minutes",
+    "year": 2013,
+    "releaseDate": "Aug 01 2013",
+    "plot": "Snowpiercer is a movie starring Chris Evans, Jamie Bell, and Tilda Swinton. In a future where a failed climate-change experiment has killed all life except for the lucky few who boarded the Snowpiercer, a train that travels around...",
+    "trailerUrl": "https://imdb.com/video/imdb/vi1214688537",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTQ3NzA1MTY3MV5BMl5BanBnXkFtZTgwNzE2Mzg5MTE@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Chris Evans",
+        "@type": "Person",
+        "url": "/name/nm0262635/"
+      },
+      {
+        "name": "Jamie Bell",
+        "@type": "Person",
+        "url": "/name/nm0068260/"
+      },
+      {
+        "name": "Tilda Swinton",
+        "@type": "Person",
+        "url": "/name/nm0842770/"
+      },
+      {
+        "name": "Ed Harris",
+        "@type": "Person",
+        "url": "/name/nm0000438/"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Bong Joon Ho",
+        "@type": "Person",
+        "url": "/name/nm0094435/"
+      }
+    ]
   }
 ]
