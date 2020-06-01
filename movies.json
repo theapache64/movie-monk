@@ -51713,5 +51713,46 @@
         "url": "/name/nm0182345/"
       }
     ]
+  },
+  {
+    "baseName": "Rick.and.Morty.S04E10.1080p.WEBRip.x264-BTX[TGx]",
+    "baseUrl": "/torrent/36205587/Rick.and.Morty.S04E10.1080p.WEBRip.x264-BTX[TGx]",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/36205587/Rick.and.Morty.S04E10.1080p.WEBRip.x264-BTX[TGx]",
+    "imdbId": "tt2861424",
+    "infoUrl": "https://www.imdb.com/title/tt2861424",
+    "title": "Rick and Morty",
+    "magnetLink": "magnet:?xt\u003durn:btih:BE0724C03C1673217297D39EBCE90BE37FE6B500\u0026dn\u003dRick.and.Morty.S04E10.1080p.WEBRip.x264-BTX%5BTGx%5D\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 2,
+    "fileSize": "673.55 MiB",
+    "imdbRating": 9.2,
+    "imdbVoteCount": 340171,
+    "genre": "Animation, Adventure, Comedy, Sci-Fi",
+    "year": 2013,
+    "releaseDate": "Dec 02 2013",
+    "plot": "Rick and Morty is a TV series starring Justin Roiland, Chris Parnell, and Spencer Grammer. An animated series that follows the exploits of a super scientist and his not-so-bright grandson.",
+    "trailerUrl": "https://imdb.com/video/imdb/vi3733110297",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjRiNDRhNGUtMzRkZi00MThlLTg0ZDMtNjc5YzFjYmFjMmM4XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Justin Roiland",
+        "@type": "Person",
+        "url": "/name/nm1551598/"
+      },
+      {
+        "name": "Chris Parnell",
+        "@type": "Person",
+        "url": "/name/nm0663177/"
+      },
+      {
+        "name": "Spencer Grammer",
+        "@type": "Person",
+        "url": "/name/nm0334561/"
+      },
+      {
+        "name": "Sarah Chalke",
+        "@type": "Person",
+        "url": "/name/nm0149950/"
+      }
+    ]
   }
 ]
