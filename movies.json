@@ -52196,5 +52196,49 @@
       }
     ],
     "screensUrls": []
+  },
+  {
+    "baseName": "Equal.Standard.2020.720p.WEBRip.800MB.x264-GalaxyRG",
+    "baseUrl": "/torrent/36209019/Equal.Standard.2020.720p.WEBRip.800MB.x264-GalaxyRG",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/36209019/Equal.Standard.2020.720p.WEBRip.800MB.x264-GalaxyRG",
+    "imdbId": "tt8171000",
+    "infoUrl": "https://www.imdb.com/title/tt8171000",
+    "title": "Equal Standard",
+    "magnetLink": "magnet:?xt\u003durn:btih:ECD9EAC2C557EEE45CD60CCEF6855720F41DC49E\u0026dn\u003dEqual.Standard.2020.720p.WEBRip.800MB.x264-GalaxyRG\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 3,
+    "fileSize": "796.39 MiB",
+    "genre": "Action, Crime, Drama",
+    "duration": "1 hour 41 minutes",
+    "plot": "Equal Standard is a movie starring Ice-T, Jules Willcox, and Marc John Jefferies. New York City police officers lives collide in interweaving stories of race, rank, loss, and betrayal.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BYmQ2MTQ4NDUtNjFmOC00MDcwLWIyMWEtODM3MmUwYmJmMDhhXkEyXkFqcGdeQXVyMjExMjg4NzE@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Ice-T",
+        "@type": "Person",
+        "url": "/name/nm0001384/"
+      },
+      {
+        "name": "Jules Willcox",
+        "@type": "Person",
+        "url": "/name/nm2663082/"
+      },
+      {
+        "name": "Marc John Jefferies",
+        "@type": "Person",
+        "url": "/name/nm0420384/"
+      },
+      {
+        "name": "Hassan Johnson",
+        "@type": "Person",
+        "url": "/name/nm0425215/"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Brendan Kyle Cochrane",
+        "@type": "Person",
+        "url": "/name/nm3007868/"
+      }
+    ]
   }
 ]
