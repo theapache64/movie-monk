@@ -53404,5 +53404,46 @@
         "url": "/name/nm0372176/"
       }
     ]
+  },
+  {
+    "baseName": "Last.Week.Tonight.with.John.Oliver.S07E14.WEB.h264-TRUMP[TGx]",
+    "baseUrl": "/torrent/36217056/Last.Week.Tonight.with.John.Oliver.S07E14.WEB.h264-TRUMP[TGx]",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/36217056/Last.Week.Tonight.with.John.Oliver.S07E14.WEB.h264-TRUMP[TGx]",
+    "imdbId": "tt3530232",
+    "infoUrl": "https://www.imdb.com/title/tt3530232",
+    "title": "Last Week Tonight with John Oliver",
+    "magnetLink": "magnet:?xt\u003durn:btih:90137C6C6FC7558B73D505E148AEFD4BEFCEA97C\u0026dn\u003dLast.Week.Tonight.with.John.Oliver.S07E14.WEB.h264-TRUMP%5BTGx%5D\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 3,
+    "fileSize": "487.42 MiB",
+    "imdbRating": 8.9,
+    "imdbVoteCount": 74735,
+    "genre": "Comedy, News, Talk-Show",
+    "year": 2014,
+    "releaseDate": "Apr 27 2014",
+    "plot": "Last Week Tonight with John Oliver is a TV series starring John Oliver, David Kaye, and Ryan Barger. Former Daily Show host and correspondent John Oliver brings his persona to this weekly news satire program.",
+    "trailerUrl": "https://imdb.com/video/imdb/vi3962944793",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTZiOTFjZTUtNDUxYi00OWRhLWE5NTctYmUyY2VlYTJhM2M4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "actors": [
+      {
+        "name": "John Oliver",
+        "@type": "Person",
+        "url": "/name/nm1056659/"
+      },
+      {
+        "name": "David Kaye",
+        "@type": "Person",
+        "url": "/name/nm0443286/"
+      },
+      {
+        "name": "Ryan Barger",
+        "@type": "Person",
+        "url": "/name/nm2175486/"
+      },
+      {
+        "name": "Noel MacNeal",
+        "@type": "Person",
+        "url": "/name/nm0534115/"
+      }
+    ]
   }
 ]
