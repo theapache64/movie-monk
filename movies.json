@@ -53236,5 +53236,87 @@
         "url": "/name/nm0182345/"
       }
     ]
+  },
+  {
+    "baseName": "Stargirl.S01E04.720p.WEB.x265-MiNX[TGx]",
+    "baseUrl": "/torrent/36217107/Stargirl.S01E04.720p.WEB.x265-MiNX[TGx]",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/36217107/Stargirl.S01E04.720p.WEB.x265-MiNX[TGx]",
+    "imdbId": "tt8722888",
+    "infoUrl": "https://www.imdb.com/title/tt8722888",
+    "title": "Stargirl",
+    "magnetLink": "magnet:?xt\u003durn:btih:8081DEA7D81C95F093705B4BD9235B5D681450A7\u0026dn\u003dStargirl.S01E04.720p.WEB.x265-MiNX%5BTGx%5D\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 2,
+    "fileSize": "183.58 MiB",
+    "imdbRating": 7.5,
+    "imdbVoteCount": 2851,
+    "genre": "Action, Adventure, Crime, Drama, Fantasy, Sci-Fi",
+    "year": 2020,
+    "releaseDate": "May 18 2020",
+    "plot": "Stargirl is a TV series starring Brec Bassinger, Yvette Monreal, and Anjelika Washington. Teenager Courtney Whitmore joins the Justice Society of America. Based on the character from DC Comics.",
+    "trailerUrl": "https://imdb.com/video/imdb/vi794935065",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMGRlNjNjNWEtZjVkMi00NzU3LThkNGEtOTYwOTAxYjBhZGQ4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Brec Bassinger",
+        "@type": "Person",
+        "url": "/name/nm5561229/"
+      },
+      {
+        "name": "Yvette Monreal",
+        "@type": "Person",
+        "url": "/name/nm6060991/"
+      },
+      {
+        "name": "Anjelika Washington",
+        "@type": "Person",
+        "url": "/name/nm5682314/"
+      },
+      {
+        "name": "Trae Romano",
+        "@type": "Person",
+        "url": "/name/nm9288587/"
+      }
+    ]
+  },
+  {
+    "baseName": "Snowpiercer.S01E04.WEBRip.x264-BTX[TGx]",
+    "baseUrl": "/torrent/36216896/Snowpiercer.S01E04.WEBRip.x264-BTX[TGx]",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/36216896/Snowpiercer.S01E04.WEBRip.x264-BTX[TGx]",
+    "imdbId": "tt6156584",
+    "infoUrl": "https://www.imdb.com/title/tt6156584",
+    "title": "Snowpiercer",
+    "magnetLink": "magnet:?xt\u003durn:btih:FDF12A7B881A234B8F84CED255D4C6C5F494174D\u0026dn\u003dSnowpiercer.S01E04.WEBRip.x264-BTX%5BTGx%5D\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 3,
+    "fileSize": "251.41 MiB",
+    "imdbRating": 6.2,
+    "imdbVoteCount": 4599,
+    "genre": "Action, Drama, Sci-Fi, Thriller",
+    "year": 2020,
+    "releaseDate": "May 17 2020",
+    "plot": "Snowpiercer is a TV series starring Jennifer Connelly, Daveed Diggs, and Mickey Sumner. Seven years after the world has become a frozen wasteland, the remnants of humanity inhabit a perpetually-moving train that circles the globe,...",
+    "trailerUrl": "https://imdb.com/video/imdb/vi686013977",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BODAwYWEwMzctYzI3MS00ZTU5LThhYWMtMjQ2ZmY5NmU2NGE5XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Jennifer Connelly",
+        "@type": "Person",
+        "url": "/name/nm0000124/"
+      },
+      {
+        "name": "Daveed Diggs",
+        "@type": "Person",
+        "url": "/name/nm4377526/"
+      },
+      {
+        "name": "Mickey Sumner",
+        "@type": "Person",
+        "url": "/name/nm2316017/"
+      },
+      {
+        "name": "Alison Wright",
+        "@type": "Person",
+        "url": "/name/nm2226071/"
+      }
+    ]
   }
 ]
