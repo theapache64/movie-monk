@@ -54050,5 +54050,54 @@
       }
     ],
     "screensUrls": []
+  },
+  {
+    "baseName": "Twilight Saga (2008) 720p BrRip x264 - 700MB - YIFY",
+    "baseUrl": "/torrent/6660385/Twilight_Saga_(2008)_720p_BrRip_x264_-_700MB_-_YIFY",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/6660385/Twilight_Saga_(2008)_720p_BrRip_x264_-_700MB_-_YIFY",
+    "imdbId": "tt1099212",
+    "infoUrl": "https://www.imdb.com/title/tt1099212/",
+    "title": "Twilight",
+    "magnetLink": "magnet:?xt\u003durn:btih:7C8B63B7DA72B9A45F68AA2DE1F3ED49663DBA94\u0026dn\u003dTwilight+Saga+%282008%29+720p+BrRip+x264+-+700MB+-+YIFY\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 5,
+    "fileSize": "700.12 MiB",
+    "imdbRating": 5.2,
+    "imdbVoteCount": 412195,
+    "genre": "Drama, Fantasy, Romance",
+    "duration": "2 hours 2 minutes",
+    "year": 2008,
+    "releaseDate": "Nov 20 2008",
+    "plot": "Twilight is a movie starring Kristen Stewart, Robert Pattinson, and Billy Burke. Bella Swan moves to Forks and encounters Edward Cullen, a gorgeous boy with a secret.",
+    "trailerUrl": "https://imdb.com/video/imdb/vi861339673",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTQ2NzUxMTAxN15BMl5BanBnXkFtZTcwMzEyMTIwMg@@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Kristen Stewart",
+        "@type": "Person",
+        "url": "/name/nm0829576/"
+      },
+      {
+        "name": "Robert Pattinson",
+        "@type": "Person",
+        "url": "/name/nm1500155/"
+      },
+      {
+        "name": "Billy Burke",
+        "@type": "Person",
+        "url": "/name/nm0121605/"
+      },
+      {
+        "name": "Sarah Clarke",
+        "@type": "Person",
+        "url": "/name/nm1020124/"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Catherine Hardwicke",
+        "@type": "Person",
+        "url": "/name/nm0362566/"
+      }
+    ]
   }
 ]
