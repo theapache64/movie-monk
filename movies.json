@@ -54219,5 +54219,55 @@
       }
     ],
     "screensUrls": []
+  },
+  {
+    "baseName": "Hereditary.2018.1080p.WEBRip.x264-MP4",
+    "baseUrl": "/torrent/24507587/Hereditary.2018.1080p.WEBRip.x264-MP4",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/24507587/Hereditary.2018.1080p.WEBRip.x264-MP4",
+    "imdbId": "tt7784604",
+    "infoUrl": "https://www.imdb.com/title/tt7784604/",
+    "title": "Hereditary",
+    "magnetLink": "magnet:?xt\u003durn:btih:4AD8030FEECDE6A91225940B6D77AA6D3019453D\u0026dn\u003dHereditary.2018.1080p.WEBRip.x264-MP4\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 2,
+    "fileSize": "2.05 GiB",
+    "languages": "English",
+    "imdbRating": 7.3,
+    "imdbVoteCount": 210874,
+    "genre": "Drama, Horror, Mystery, Thriller",
+    "duration": "2 hours 7 minutes",
+    "year": 2018,
+    "releaseDate": "Jun 07 2018",
+    "plot": "Hereditary is a movie starring Toni Collette, Milly Shapiro, and Gabriel Byrne. A grieving family is haunted by tragic and disturbing occurrences.",
+    "trailerUrl": "https://imdb.com/video/imdb/vi837793817",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BOTU5MDg3OGItZWQ1Ny00ZGVmLTg2YTUtMzBkYzQ1YWIwZjlhXkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Toni Collette",
+        "@type": "Person",
+        "url": "/name/nm0001057/"
+      },
+      {
+        "name": "Milly Shapiro",
+        "@type": "Person",
+        "url": "/name/nm8412536/"
+      },
+      {
+        "name": "Gabriel Byrne",
+        "@type": "Person",
+        "url": "/name/nm0000321/"
+      },
+      {
+        "name": "Alex Wolff",
+        "@type": "Person",
+        "url": "/name/nm1842974/"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Ari Aster",
+        "@type": "Person",
+        "url": "/name/nm4170048/"
+      }
+    ]
   }
 ]
