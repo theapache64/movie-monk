@@ -55287,5 +55287,53 @@
       }
     ],
     "screensUrls": []
+  },
+  {
+    "baseName": "Assassins.Game.2020.720p.AMZN.WEBRip.800MB.x264-GalaxyRG",
+    "baseUrl": "/torrent/36231564/Assassins.Game.2020.720p.AMZN.WEBRip.800MB.x264-GalaxyRG",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/36231564/Assassins.Game.2020.720p.AMZN.WEBRip.800MB.x264-GalaxyRG",
+    "imdbId": "tt8272852",
+    "infoUrl": "https://www.imdb.com/title/tt8272852",
+    "title": "Maximillian",
+    "magnetLink": "magnet:?xt\u003durn:btih:080B0C58D782C58713DD07CF4D0B6928FEDFD55B\u0026dn\u003dAssassins.Game.2020.720p.AMZN.WEBRip.800MB.x264-GalaxyRG\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 3,
+    "fileSize": "795.81 MiB",
+    "imdbRating": 3.1,
+    "imdbVoteCount": 27,
+    "genre": "Action, Sci-Fi, Thriller",
+    "year": 2019,
+    "releaseDate": "May 24 2019",
+    "plot": "Maximillian is a movie starring Vernard Adams, Demond Ballou, and Jassen Bruegman. The secret team of assassins, the Shadows, are put to the test in an ultimate game of survival.",
+    "trailerUrl": "https://imdb.com/video/imdb/vi3845897753",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BZGI5YWM3NTEtOWFjNS00OWRmLWI4ZWEtNjM4ODk2NWU5NTRhXkEyXkFqcGdeQXVyMDczOTUwOA@@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Vernard Adams",
+        "@type": "Person",
+        "url": "/name/nm4227063/"
+      },
+      {
+        "name": "Demond Ballou",
+        "@type": "Person",
+        "url": "/name/nm7182128/"
+      },
+      {
+        "name": "Jassen Bruegman",
+        "@type": "Person",
+        "url": "/name/nm9300437/"
+      },
+      {
+        "name": "Ember Burns",
+        "@type": "Person",
+        "url": "/name/nm7357196/"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Keith Collins II",
+        "@type": "Person",
+        "url": "/name/nm5500905/"
+      }
+    ]
   }
 ]
