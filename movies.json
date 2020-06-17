@@ -55335,5 +55335,46 @@
         "url": "/name/nm5500905/"
       }
     ]
+  },
+  {
+    "baseName": "Condor.S02E03.WEB.x264-PHOENiX[TGx]",
+    "baseUrl": "/torrent/36232978/Condor.S02E03.WEB.x264-PHOENiX[TGx]",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/36232978/Condor.S02E03.WEB.x264-PHOENiX[TGx]",
+    "imdbId": "tt6510950",
+    "infoUrl": "https://www.imdb.com/title/tt6510950",
+    "title": "Condor",
+    "magnetLink": "magnet:?xt\u003durn:btih:DC5B0EDAD1343AE3D5F929632F6F991B61C9239B\u0026dn\u003dCondor.S02E03.WEB.x264-PHOENiX%5BTGx%5D\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 2,
+    "fileSize": "267.08 MiB",
+    "imdbRating": 7.8,
+    "imdbVoteCount": 8088,
+    "genre": "Action, Drama, Thriller",
+    "year": 2018,
+    "releaseDate": "Jun 06 2018",
+    "plot": "Condor is a TV series starring Max Irons, Kristen Hager, and Bob Balaban. Based on the novel \"Six Days of the Condor\" by James Grady and screenplay \"Three Days of the Condor\" by Lorenzo Semple Jr. and David Rayfiel, CONDOR follows...",
+    "trailerUrl": "https://imdb.com/video/imdb/vi150256409",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BYmFhOGYyNzQtYzlmYS00ZjkyLWJlNzQtMWU3MTk2MWFjOGRmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Max Irons",
+        "@type": "Person",
+        "url": "/name/nm1796057/"
+      },
+      {
+        "name": "Kristen Hager",
+        "@type": "Person",
+        "url": "/name/nm1982266/"
+      },
+      {
+        "name": "Bob Balaban",
+        "@type": "Person",
+        "url": "/name/nm0000837/"
+      },
+      {
+        "name": "Gage Graham-Arbuthnot",
+        "@type": "Person",
+        "url": "/name/nm8934157/"
+      }
+    ]
   }
 ]
