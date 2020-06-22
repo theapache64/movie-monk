@@ -59135,5 +59135,46 @@
         "url": "/name/nm10215430/"
       }
     ]
+  },
+  {
+    "baseName": "Snowpiercer.S01E06.720p.WEBRip.x265-MiNX[TGx]",
+    "baseUrl": "/torrent/36209904/Snowpiercer.S01E06.720p.WEBRip.x265-MiNX[TGx]",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/36209904/Snowpiercer.S01E06.720p.WEBRip.x265-MiNX[TGx]",
+    "imdbId": "tt6156584",
+    "infoUrl": "https://www.imdb.com/title/tt6156584",
+    "title": "Snowpiercer",
+    "magnetLink": "magnet:?xt\u003durn:btih:B325880E99AF2325582B605E916EC210EC68804A\u0026dn\u003dSnowpiercer.S01E06.720p.WEBRip.x265-MiNX%5BTGx%5D\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 2,
+    "fileSize": "214.29 MiB",
+    "imdbRating": 6.3,
+    "imdbVoteCount": 7194,
+    "genre": "Action, Drama, Sci-Fi, Thriller",
+    "year": 2020,
+    "releaseDate": "May 17 2020",
+    "plot": "Snowpiercer is a TV series starring Jennifer Connelly, Daveed Diggs, and Mickey Sumner. Seven years after the world has become a frozen wasteland, the remnants of humanity inhabit a perpetually-moving train that circles the globe,...",
+    "trailerUrl": "https://imdb.com/video/imdb/vi686013977",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BODAwYWEwMzctYzI3MS00ZTU5LThhYWMtMjQ2ZmY5NmU2NGE5XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Jennifer Connelly",
+        "@type": "Person",
+        "url": "/name/nm0000124/"
+      },
+      {
+        "name": "Daveed Diggs",
+        "@type": "Person",
+        "url": "/name/nm4377526/"
+      },
+      {
+        "name": "Mickey Sumner",
+        "@type": "Person",
+        "url": "/name/nm2316017/"
+      },
+      {
+        "name": "Alison Wright",
+        "@type": "Person",
+        "url": "/name/nm2226071/"
+      }
+    ]
   }
 ]
