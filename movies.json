@@ -58963,5 +58963,55 @@
         "url": "/name/nm0031976/"
       }
     ]
+  },
+  {
+    "baseName": "The Fault in Our Stars (2014) 720p BrRip x264 - YIFY",
+    "baseUrl": "/torrent/10890731/The_Fault_in_Our_Stars_(2014)_720p_BrRip_x264_-_YIFY",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/10890731/The_Fault_in_Our_Stars_(2014)_720p_BrRip_x264_-_YIFY",
+    "imdbId": "tt2582846",
+    "infoUrl": "https://www.imdb.com/title/tt2582846/",
+    "title": "The Fault in Our Stars",
+    "magnetLink": "magnet:?xt\u003durn:btih:68D3BAB92818BC9075032F619740F14421F1280D\u0026dn\u003dThe+Fault+in+Our+Stars+%282014%29+720p+BrRip+x264+-+YIFY\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 2,
+    "fileSize": "879.68 MiB",
+    "languages": "English",
+    "imdbRating": 7.7,
+    "imdbVoteCount": 333590,
+    "genre": "Drama, Romance",
+    "duration": "2 hours 6 minutes",
+    "year": 2014,
+    "releaseDate": "Jun 04 2014",
+    "plot": "The Fault in Our Stars is a movie starring Shailene Woodley, Ansel Elgort, and Nat Wolff. Two teenage cancer patients begin a life-affirming journey to visit a reclusive author in Amsterdam.",
+    "trailerUrl": "https://imdb.com/video/imdb/vi2313071897",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjA4NzkxNzc5Ml5BMl5BanBnXkFtZTgwNzQ3OTMxMTE@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Shailene Woodley",
+        "@type": "Person",
+        "url": "/name/nm0940362/"
+      },
+      {
+        "name": "Ansel Elgort",
+        "@type": "Person",
+        "url": "/name/nm5052065/"
+      },
+      {
+        "name": "Nat Wolff",
+        "@type": "Person",
+        "url": "/name/nm1822659/"
+      },
+      {
+        "name": "Laura Dern",
+        "@type": "Person",
+        "url": "/name/nm0000368/"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Josh Boone",
+        "@type": "Person",
+        "url": "/name/nm1837748/"
+      }
+    ]
   }
 ]
