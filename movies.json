@@ -59094,5 +59094,46 @@
         "url": "/name/nm1478623/"
       }
     ]
+  },
+  {
+    "baseName": "Perry.Mason.2020.S01E01.720p.WEB.x265-MiNX[TGx]",
+    "baseUrl": "/torrent/36209865/Perry.Mason.2020.S01E01.720p.WEB.x265-MiNX[TGx]",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/36209865/Perry.Mason.2020.S01E01.720p.WEB.x265-MiNX[TGx]",
+    "imdbId": "tt2077823",
+    "infoUrl": "https://www.imdb.com/title/tt2077823",
+    "title": "Perry Mason",
+    "magnetLink": "magnet:?xt\u003durn:btih:C08C3ED1378416818750446D0CFAFF593E498179\u0026dn\u003dPerry.Mason.2020.S01E01.720p.WEB.x265-MiNX%5BTGx%5D\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 2,
+    "fileSize": "230.7 MiB",
+    "imdbRating": 7.9,
+    "imdbVoteCount": 378,
+    "genre": "Crime, Drama",
+    "year": 2020,
+    "releaseDate": "Jun 21 2020",
+    "plot": "Perry Mason is a TV series starring Matthew Rhys, Rachel Boulware, and Jedediah Jenk. In booming 1932 Los Angeles, a down-and-out defense attorney takes on the case of a lifetime.",
+    "trailerUrl": "https://imdb.com/video/imdb/vi3257056793",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMDllMWRjNWMtM2U3Ny00YjAwLTlhNTgtOThjZTc2YmI2ZmRmXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Matthew Rhys",
+        "@type": "Person",
+        "url": "/name/nm0722629/"
+      },
+      {
+        "name": "Rachel Boulware",
+        "@type": "Person",
+        "url": "/name/nm11514076/"
+      },
+      {
+        "name": "Jedediah Jenk",
+        "@type": "Person",
+        "url": "/name/nm5367048/"
+      },
+      {
+        "name": "Nick La Croix",
+        "@type": "Person",
+        "url": "/name/nm10215430/"
+      }
+    ]
   }
 ]
