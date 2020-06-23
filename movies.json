@@ -59176,5 +59176,60 @@
         "url": "/name/nm2226071/"
       }
     ]
+  },
+  {
+    "baseName": "Inside Out (2015) 1080p BrRip x264 - YIFY",
+    "baseUrl": "/torrent/12602556/Inside_Out_(2015)_1080p_BrRip_x264_-_YIFY",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/12602556/Inside_Out_(2015)_1080p_BrRip_x264_-_YIFY",
+    "imdbId": "tt2096673",
+    "infoUrl": "https://www.imdb.com/title/tt2096673/",
+    "title": "Inside Out",
+    "magnetLink": "magnet:?xt\u003durn:btih:556BE0BD40C4880E29BA567663C65BD8BAE9FBEB\u0026dn\u003dInside+Out+%282015%29+1080p+BrRip+x264+-+YIFY\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 2,
+    "fileSize": "1.44 GiB",
+    "languages": "English",
+    "imdbRating": 8.1,
+    "imdbVoteCount": 585552,
+    "genre": "Animation, Adventure, Comedy, Drama, Family, Fantasy",
+    "duration": "1 hour 35 minutes",
+    "year": 2015,
+    "releaseDate": "Jun 17 2015",
+    "plot": "Inside Out is a movie starring Amy Poehler, Bill Hader, and Lewis Black. After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to...",
+    "trailerUrl": "https://imdb.com/video/imdb/vi203730969",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Amy Poehler",
+        "@type": "Person",
+        "url": "/name/nm0688132/"
+      },
+      {
+        "name": "Bill Hader",
+        "@type": "Person",
+        "url": "/name/nm0352778/"
+      },
+      {
+        "name": "Lewis Black",
+        "@type": "Person",
+        "url": "/name/nm0085400/"
+      },
+      {
+        "name": "Mindy Kaling",
+        "@type": "Person",
+        "url": "/name/nm1411676/"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Pete Docter",
+        "@type": "Person",
+        "url": "/name/nm0230032/"
+      },
+      {
+        "name": "Ronnie Del Carmen",
+        "@type": "Person",
+        "url": "/name/nm0215455/"
+      }
+    ]
   }
 ]
