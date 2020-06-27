@@ -59970,5 +59970,54 @@
       }
     ],
     "screensUrls": []
+  },
+  {
+    "baseName": "Eurovision.Song.Contest.The.Story.of.Fire.Saga.2020.720p.NF.WEBR",
+    "baseUrl": "/torrent/36219990/Eurovision.Song.Contest.The.Story.of.Fire.Saga.2020.720p.NF.WEBR",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/36219990/Eurovision.Song.Contest.The.Story.of.Fire.Saga.2020.720p.NF.WEBR",
+    "imdbId": "tt8580274",
+    "infoUrl": "https://www.imdb.com/title/tt8580274",
+    "title": "Eurovision Song Contest: The Story of Fire Saga",
+    "magnetLink": "magnet:?xt\u003durn:btih:7D809607DD4CDA84141D89957660109D66CA84F7\u0026dn\u003dEurovision.Song.Contest.The.Story.of.Fire.Saga.2020.720p.NF.WEBR\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 2,
+    "fileSize": "795.88 MiB",
+    "imdbRating": 6.7,
+    "imdbVoteCount": 5700,
+    "genre": "Comedy, Music",
+    "duration": "2 hours 3 minutes",
+    "year": 2020,
+    "releaseDate": "Jun 26 2020",
+    "plot": "Eurovision Song Contest: The Story of Fire Saga is a movie starring Will Ferrell, Rachel McAdams, and Pierce Brosnan. When aspiring musicians Lars and Sigrit are given the opportunity to represent their country at the world\u0027s...",
+    "trailerUrl": "https://imdb.com/video/imdb/vi1310834201",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BYzRjYzA5NTQtOTE3MC00OTYzLWEzODItMzQxYWE1NDJkMDA0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Will Ferrell",
+        "@type": "Person",
+        "url": "/name/nm0002071/"
+      },
+      {
+        "name": "Rachel McAdams",
+        "@type": "Person",
+        "url": "/name/nm1046097/"
+      },
+      {
+        "name": "Pierce Brosnan",
+        "@type": "Person",
+        "url": "/name/nm0000112/"
+      },
+      {
+        "name": "Ólafur Darri Ólafsson",
+        "@type": "Person",
+        "url": "/name/nm0959963/"
+      }
+    ],
+    "directors": [
+      {
+        "name": "David Dobkin",
+        "@type": "Person",
+        "url": "/name/nm0229694/"
+      }
+    ]
   }
 ]
