@@ -28,7 +28,7 @@ object TPB : MovieProvider {
         println("Collecting trending movies ...")
 
         println("Proxy : $baseDomain")
-        val moviesUrl = "https://$baseDomain/top/200"
+        val moviesUrl = "https://$baseDomain/top/201"
         val respString = RestClient.get(moviesUrl).body!!.string()
         val response = StringUtils.removeNewLinesAndMultipleSpaces(respString)
         val results = MOVIE_REGEX.findAll(response)
