@@ -14,8 +14,8 @@ fun main(args: Array<String>) {
 
     val providers = mapOf(
         TPB to listOf(
-             CreatorEngine,
-             CommenterEngine,
+            CreatorEngine,
+            CommenterEngine,
             TPBTelegramEngine
         ),
         DVDPlay to listOf(

@@ -1,12 +1,10 @@
 package com.theapache64.moviemonk.utils
 
 import okhttp3.OkHttpClient
-import okhttp3.Protocol
 import okhttp3.Request
 import okhttp3.RequestBody.Companion.toRequestBody
 import okhttp3.Response
 import java.util.concurrent.TimeUnit
-import kotlin.system.exitProcess
 
 object RestClient {
 
@@ -18,15 +16,17 @@ object RestClient {
         .followSslRedirects(true)
         .build()*/
 
+    private val okHttpClient = getNewOkHttpClient()
+
     fun get(url: String, headers: Map<String, String>? = null): Response {
         return call("GET", url, headers, null)
     }
 
     private fun getNewOkHttpClient(): OkHttpClient {
         return OkHttpClient.Builder()
-            .connectTimeout(30, TimeUnit.SECONDS)
-            .readTimeout(30, TimeUnit.SECONDS)
-            .writeTimeout(30, TimeUnit.SECONDS)
+            .connectTimeout(60, TimeUnit.SECONDS)
+            .readTimeout(60, TimeUnit.SECONDS)
+            .writeTimeout(60, TimeUnit.SECONDS)
             .followRedirects(true)
             .followSslRedirects(true)
             .build()
@@ -58,7 +58,8 @@ object RestClient {
             "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36"
         )
 
-        return getNewOkHttpClient().newCall(request.build()).execute()
+
+        return okHttpClient.newCall(request.build()).execute()
     }
 
     fun post(url: String, headers: Map<String, String>?, body: Any): Response {
