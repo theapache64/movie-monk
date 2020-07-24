@@ -65866,5 +65866,55 @@
     "magnetLink": "magnet:?xt\u003durn:btih:63C008840520B9D01F33AD7072D4B669855668B2\u0026dn\u003dDil+Bechara+%282020%29+-+Hindi+-+HDRip+-+x264+-+700MB\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
     "fileCount": 2,
     "fileSize": "730.27 MiB"
+  },
+  {
+    "baseName": "High.Life.2019.BRRip.XviD.AC3-EVO",
+    "baseUrl": "/torrent/31604445/High.Life.2019.BRRip.XviD.AC3-EVO",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/31604445/High.Life.2019.BRRip.XviD.AC3-EVO",
+    "imdbId": "tt4827558",
+    "infoUrl": "https://www.imdb.com/title/tt4827558/",
+    "title": "High Life",
+    "magnetLink": "magnet:?xt\u003durn:btih:F4329569A9691F0244A567F82FF237430616712D\u0026dn\u003dHigh.Life.2019.BRRip.XviD.AC3-EVO\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 3,
+    "fileSize": "1.24 GiB",
+    "languages": "English",
+    "imdbRating": 5.8,
+    "imdbVoteCount": 25175,
+    "genre": "Adventure, Drama, Horror, Mystery, Sci-Fi, Thriller",
+    "duration": "1 hour 53 minutes",
+    "year": 2018,
+    "releaseDate": "Nov 07 2018",
+    "plot": "High Life is a movie starring Robert Pattinson, Juliette Binoche, and André Benjamin. A father and his daughter struggle to survive in deep space where they live in isolation.",
+    "trailerUrl": "https://imdb.com/video/imdb/vi3273243161",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMDNjN2NjYmItMjAyZi00NmNkLWJmYTQtYzcwZGRiM2RmNGNlXkEyXkFqcGdeQXVyODUxNjcxNjE@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Robert Pattinson",
+        "@type": "Person",
+        "url": "/name/nm1500155/"
+      },
+      {
+        "name": "Juliette Binoche",
+        "@type": "Person",
+        "url": "/name/nm0000300/"
+      },
+      {
+        "name": "André Benjamin",
+        "@type": "Person",
+        "url": "/name/nm0071275/"
+      },
+      {
+        "name": "Mia Goth",
+        "@type": "Person",
+        "url": "/name/nm5301405/"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Claire Denis",
+        "@type": "Person",
+        "url": "/name/nm0219136/"
+      }
+    ]
   }
 ]
