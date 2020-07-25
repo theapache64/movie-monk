@@ -65965,5 +65965,55 @@
         "url": "/name/nm0345615/"
       }
     ]
+  },
+  {
+    "baseName": "Blade II (2002) m-HD - x264 - 500MB - YIFY",
+    "baseUrl": "/torrent/5943968/Blade_II_(2002)_m-HD_-_x264_-_500MB_-_YIFY",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/5943968/Blade_II_(2002)_m-HD_-_x264_-_500MB_-_YIFY",
+    "imdbId": "tt0187738",
+    "infoUrl": "https://www.imdb.com/title/tt0187738/",
+    "title": "Blade II",
+    "magnetLink": "magnet:?xt\u003durn:btih:3B501B15A5AB6EC52FF01B9721C4101CFC74823A\u0026dn\u003dBlade+II+%282002%29+m-HD+-+x264+-+500MB+-+YIFY\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 2,
+    "fileSize": "499.55 MiB",
+    "languages": "English",
+    "imdbRating": 6.7,
+    "imdbVoteCount": 195704,
+    "genre": "Action, Fantasy, Horror, Sci-Fi, Thriller",
+    "duration": "1 hour 57 minutes",
+    "year": 2002,
+    "releaseDate": "Mar 22 2002",
+    "plot": "Blade II is a movie starring Wesley Snipes, Kris Kristofferson, and Ron Perlman. Blade forms an uneasy alliance with the vampire council in order to combat the Reapers, who are feeding on vampires.",
+    "trailerUrl": "https://imdb.com/video/imdb/vi2780430617",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BOWVjZTIzNDYtNTBlNC00NTJjLTkzOTEtOTE0MjlhYzI2YTcyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Wesley Snipes",
+        "@type": "Person",
+        "url": "/name/nm0000648/"
+      },
+      {
+        "name": "Kris Kristofferson",
+        "@type": "Person",
+        "url": "/name/nm0001434/"
+      },
+      {
+        "name": "Ron Perlman",
+        "@type": "Person",
+        "url": "/name/nm0000579/"
+      },
+      {
+        "name": "Leonor Varela",
+        "@type": "Person",
+        "url": "/name/nm0007237/"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Guillermo del Toro",
+        "@type": "Person",
+        "url": "/name/nm0868219/"
+      }
+    ]
   }
 ]
