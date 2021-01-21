@@ -7,6 +7,7 @@ import com.theapache64.moviemonk.core.engines.DVDPlayTelegramEngine
 import com.theapache64.moviemonk.core.engines.TPBTelegramEngine
 import com.theapache64.moviemonk.core.providers.DVDPlay
 import com.theapache64.moviemonk.core.providers.TPB
+import java.net.SocketTimeoutException
 
 class Main
 
@@ -33,27 +34,32 @@ fun main(args: Array<String>) {
             println("------------------------")
             println("Starting ${engine.javaClass.simpleName} engine...")
 
-            val trendingMovies = movieProvider.getTrendingMovies(baseDomain)
+            try {
+                val trendingMovies = movieProvider.getTrendingMovies(baseDomain)
 
-            if (trendingMovies.isNotEmpty()) {
+                if (trendingMovies.isNotEmpty()) {
 
-                val newMovies = MovieManager.filterNewMovies(engine.getRepo(), trendingMovies)
-                println("Total new movies : ${newMovies.size}")
-                if (newMovies.isNotEmpty()) {
-                    val newFullMovies = MovieManager.getFullMovies(baseDomain, newMovies)
+                    val newMovies = MovieManager.filterNewMovies(engine.getRepo(), trendingMovies)
+                    println("Total new movies : ${newMovies.size}")
+                    if (newMovies.isNotEmpty()) {
+                        val newFullMovies = MovieManager.getFullMovies(baseDomain, newMovies)
 
-                    require(newMovies.size == newFullMovies.size) {
-                        "Something went wrong while converting base movies to full movies"
+                        require(newMovies.size == newFullMovies.size) {
+                            "Something went wrong while converting base movies to full movies"
+                        }
+
+                        engine.handle(movieProvider, newFullMovies)
+
+                    } else {
+                        println("No new movies found")
                     }
 
-                    engine.handle(movieProvider, newFullMovies)
-
                 } else {
-                    println("No new movies found")
+                    println("Failed to get latest movies")
                 }
-
-            } else {
-                println("Failed to get latest movies")
+            } catch (e: SocketTimeoutException) {
+                e.printStackTrace()
+                println("Failed to get ${baseDomain}->${engine::class.simpleName}")
             }
         }
     }
