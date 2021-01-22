@@ -70686,5 +70686,53 @@
         "url": "/name/nm7506669/"
       }
     ]
+  },
+  {
+    "baseName": "The Evil Twin 2021 720p WEB HEVC x265",
+    "baseUrl": "/torrent/40830065/The_Evil_Twin_2021_720p_WEB_HEVC_x265",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/40830065/The_Evil_Twin_2021_720p_WEB_HEVC_x265",
+    "imdbId": "tt13191004",
+    "infoUrl": "https://www.imdb.com/title/tt13191004",
+    "title": "The Evil Twin",
+    "magnetLink": "magnet:?xt\u003durn:btih:4FC95FD5B4457BB1E8BCD29F790E63DD66D4F544\u0026dn\u003dThe+Evil+Twin+2021+720p+WEB+HEVC+x265\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 1,
+    "fileSize": "369.42 MiB",
+    "imdbRating": 5.4,
+    "imdbVoteCount": 36,
+    "genre": "Thriller",
+    "duration": "1 hour 27 minutes",
+    "year": 2021,
+    "releaseDate": "Jan 16 2021",
+    "plot": "The Evil Twin is a TV movie starring Tomas Chovanec, Tanya Clarke, and Cory Lee. Emily escapes from an abusive relationship by moving back to her hometown only to discover she has a long-lost twin, but her newfound sister might be a...",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BNGQwZjBkNjMtMjYwZC00MDRkLWI5MmQtZjMwNWUzNmU4ODJlXkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Tomas Chovanec",
+        "@type": "Person",
+        "url": "/name/nm0159419/"
+      },
+      {
+        "name": "Tanya Clarke",
+        "@type": "Person",
+        "url": "/name/nm1092540/"
+      },
+      {
+        "name": "Cory Lee",
+        "@type": "Person",
+        "url": "/name/nm0881875/"
+      },
+      {
+        "name": "Jon McLaren",
+        "@type": "Person",
+        "url": "/name/nm2374363/"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Max McGuire",
+        "@type": "Person",
+        "url": "/name/nm0536609/"
+      }
+    ]
   }
 ]
