@@ -70624,5 +70624,67 @@
         "url": "/name/nm3724393/"
       }
     ]
+  },
+  {
+    "baseName": "Mulan.2020.1080p.WEBRip.DDP5.1.X264-EVO",
+    "baseUrl": "/torrent/36470247/Mulan.2020.1080p.WEBRip.DDP5.1.X264-EVO",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/36470247/Mulan.2020.1080p.WEBRip.DDP5.1.X264-EVO",
+    "magnetLink": "magnet:?xt\u003durn:btih:DA87BD1DC1BFB1DE3ADEA20DFF58C5C64EE3CE68\u0026dn\u003dMulan.2020.1080p.WEBRip.DDP5.1.X264-EVO\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 3,
+    "fileSize": "4.91 GiB"
+  },
+  {
+    "baseName": "Class Action Park 2020 720p WEBRip HEVC X265-RMTeam",
+    "baseUrl": "/torrent/36429911/Class_Action_Park_2020_720p_WEBRip_HEVC_X265-RMTeam",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/36429911/Class_Action_Park_2020_720p_WEBRip_HEVC_X265-RMTeam",
+    "imdbId": "tt11015214",
+    "infoUrl": "https://www.imdb.com/title/tt11015214",
+    "title": "Class Action Park",
+    "magnetLink": "magnet:?xt\u003durn:btih:758E68431B699FD0CD0BF7678DA005272930EFF7\u0026dn\u003dClass+Action+Park+2020+720p+WEBRip+HEVC+X265-RMTeam\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 1,
+    "fileSize": "663.61 MiB",
+    "imdbRating": 7.0,
+    "imdbVoteCount": 3278,
+    "genre": "Documentary",
+    "duration": "1 hour 30 minutes",
+    "year": 2020,
+    "releaseDate": "Aug 27 2020",
+    "plot": "Class Action Park is a movie starring Mary Pilon, Jim DeSaye, and Jessi Paladini. A documentary that focuses on a dangerously legendary water park and its slew of injuries and crimes along with child safety concerns.",
+    "trailerUrl": "https://imdb.com/video/imdb/vi3396058649",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BM2ZhOWM0ZjQtNjI2OC00YjEzLThiMjUtNGI0NjU1OWNlNWEzXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Mary Pilon",
+        "@type": "Person",
+        "url": "/name/nm7208040/"
+      },
+      {
+        "name": "Jim DeSaye",
+        "@type": "Person",
+        "url": "/name/nm11860745/"
+      },
+      {
+        "name": "Jessi Paladini",
+        "@type": "Person",
+        "url": "/name/nm11860746/"
+      },
+      {
+        "name": "Andrew Mulvihill",
+        "@type": "Person",
+        "url": "/name/nm11860747/"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Seth Porges",
+        "@type": "Person",
+        "url": "/name/nm6259528/"
+      },
+      {
+        "name": "Chris Charles Scott III",
+        "@type": "Person",
+        "url": "/name/nm7506669/"
+      }
+    ]
   }
 ]
