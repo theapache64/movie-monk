@@ -71076,5 +71076,54 @@
         "url": "/name/nm12048736/"
       }
     ]
+  },
+  {
+    "baseName": "The.Mortuary.Collection.2020.HDRip.XviD.AC3-EVO",
+    "baseUrl": "/torrent/36690731/The.Mortuary.Collection.2020.HDRip.XviD.AC3-EVO",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/36690731/The.Mortuary.Collection.2020.HDRip.XviD.AC3-EVO",
+    "imdbId": "tt7781432",
+    "infoUrl": "https://www.imdb.com/title/tt7781432",
+    "title": "The Mortuary Collection",
+    "magnetLink": "magnet:?xt\u003durn:btih:5B6355FDADAA2288DA78E013A9F92434C0D905E3\u0026dn\u003dThe.Mortuary.Collection.2020.HDRip.XviD.AC3-EVO\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 3,
+    "fileSize": "1.31 GiB",
+    "imdbRating": 6.5,
+    "imdbVoteCount": 5070,
+    "genre": "Fantasy, Horror",
+    "duration": "1 hour 48 minutes",
+    "year": 2020,
+    "releaseDate": "Oct 15 2020",
+    "plot": "The Mortuary Collection is a movie starring Tristan Byon, Eden Campbell, and Hannah R. Loyd. An eccentric mortician recounts several macabre and phantasmagorical tales that he\u0027s encountered in his distinguished career.",
+    "trailerUrl": "https://imdb.com/video/imdb/vi1620492057",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BOTJkNGZkYjEtNDdjMy00NDYxLWE1MDYtNTgyMWNhOWRhZTBkXkEyXkFqcGdeQXVyNDc0MzY5MTk@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Tristan Byon",
+        "@type": "Person",
+        "url": "/name/nm6976096/"
+      },
+      {
+        "name": "Eden Campbell",
+        "@type": "Person",
+        "url": "/name/nm5119729/"
+      },
+      {
+        "name": "Hannah R. Loyd",
+        "@type": "Person",
+        "url": "/name/nm8075458/"
+      },
+      {
+        "name": "Clancy Brown",
+        "@type": "Person",
+        "url": "/name/nm0000317/"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Ryan Spindell",
+        "@type": "Person",
+        "url": "/name/nm1841530/"
+      }
+    ]
   }
 ]
