@@ -71125,5 +71125,54 @@
         "url": "/name/nm1841530/"
       }
     ]
+  },
+  {
+    "baseName": "Agent.Revelation.2021.HDRip.XviD.AC3-EVO",
+    "baseUrl": "/torrent/40980081/Agent.Revelation.2021.HDRip.XviD.AC3-EVO",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/40980081/Agent.Revelation.2021.HDRip.XviD.AC3-EVO",
+    "imdbId": "tt8955940",
+    "infoUrl": "https://www.imdb.com/title/tt8955940",
+    "title": "Agent Revelation",
+    "magnetLink": "magnet:?xt\u003durn:btih:4C28CA9326F48AA6AA702F9801E12944851BEA14\u0026dn\u003dAgent.Revelation.2021.HDRip.XviD.AC3-EVO\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 3,
+    "fileSize": "1.33 GiB",
+    "imdbRating": 5.4,
+    "imdbVoteCount": 254,
+    "genre": "Action, Sci-Fi, Thriller",
+    "duration": "1 hour 26 minutes",
+    "year": 2021,
+    "releaseDate": "Jan 21 2021",
+    "plot": "Agent Revelation is a movie starring Derek Ting, Michael Dorn, and Kayla Ewell. An ancient dust that controls humans is unleashed, but mysteriously affects Jim Yung who gains superpowers. Jim is taken to an underground base where...",
+    "trailerUrl": "https://imdb.com/video/imdb/vi2821243161",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BZWY5ODQ0MjAtMDhlOS00NGRmLWEzNjUtZmFiMTExNDI3NWQ5XkEyXkFqcGdeQXVyMTcyNTM5NDA@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Derek Ting",
+        "@type": "Person",
+        "url": "/name/nm2817470/"
+      },
+      {
+        "name": "Michael Dorn",
+        "@type": "Person",
+        "url": "/name/nm0000373/"
+      },
+      {
+        "name": "Kayla Ewell",
+        "@type": "Person",
+        "url": "/name/nm0263881/"
+      },
+      {
+        "name": "Carole Weyers",
+        "@type": "Person",
+        "url": "/name/nm2925389/"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Derek Ting",
+        "@type": "Person",
+        "url": "/name/nm2817470/"
+      }
+    ]
   }
 ]
