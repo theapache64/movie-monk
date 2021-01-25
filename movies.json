@@ -71417,5 +71417,53 @@
         "url": "/name/nm0931251/"
       }
     ]
+  },
+  {
+    "baseName": "The.Furnace.2020.HDRip.XviD.AC3-EVO",
+    "baseUrl": "/torrent/41033360/The.Furnace.2020.HDRip.XviD.AC3-EVO",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/41033360/The.Furnace.2020.HDRip.XviD.AC3-EVO",
+    "imdbId": "tt10964530",
+    "infoUrl": "https://www.imdb.com/title/tt10964530",
+    "title": "The Furnace",
+    "magnetLink": "magnet:?xt\u003durn:btih:A47C9BF03E72DE1DE09E75F4C9A4EA5CBFA03BE0\u0026dn\u003dThe.Furnace.2020.HDRip.XviD.AC3-EVO\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 3,
+    "fileSize": "1.34 GiB",
+    "imdbRating": 4.7,
+    "imdbVoteCount": 1200,
+    "genre": "Adventure, Drama, History, Thriller, Western",
+    "duration": "1 hour 56 minutes",
+    "year": 2020,
+    "releaseDate": "Dec 10 2020",
+    "plot": "The Furnace is a movie starring David Wenham, Jay Ryan, and Mahesh Jadu. To escape the outback, a young Afghan cameleer falls in with a mysterious bushman on the run with stolen Crown gold.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BNDA3NzlkYjgtODlkZS00NGVlLWI4NWItYjRlNGI2ZTk4ZDQ1XkEyXkFqcGdeQXVyNTI3NDM2MzQ@._V1_.jpg",
+    "actors": [
+      {
+        "name": "David Wenham",
+        "@type": "Person",
+        "url": "/name/nm0920992/"
+      },
+      {
+        "name": "Jay Ryan",
+        "@type": "Person",
+        "url": "/name/nm1216008/"
+      },
+      {
+        "name": "Mahesh Jadu",
+        "@type": "Person",
+        "url": "/name/nm2054113/"
+      },
+      {
+        "name": "Erik Thomson",
+        "@type": "Person",
+        "url": "/name/nm0860997/"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Roderick MacKay",
+        "@type": "Person",
+        "url": "/name/nm5012852/"
+      }
+    ]
   }
 ]
