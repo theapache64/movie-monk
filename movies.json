@@ -71319,5 +71319,54 @@
         "url": "/name/nm1837867/"
       }
     ]
+  },
+  {
+    "baseName": "The.2nd.2020.HDRip.XviD.AC3-EVO",
+    "baseUrl": "/torrent/36459951/The.2nd.2020.HDRip.XviD.AC3-EVO",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/36459951/The.2nd.2020.HDRip.XviD.AC3-EVO",
+    "imdbId": "tt11697484",
+    "infoUrl": "https://www.imdb.com/title/tt11697484",
+    "title": "The 2nd",
+    "magnetLink": "magnet:?xt\u003durn:btih:BC9F02E54DB8FDFA5C895422BD2FEFDB2ECE48CF\u0026dn\u003dThe.2nd.2020.HDRip.XviD.AC3-EVO\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 3,
+    "fileSize": "1.36 GiB",
+    "imdbRating": 4.3,
+    "imdbVoteCount": 4642,
+    "genre": "Action, Drama",
+    "duration": "1 hour 33 minutes",
+    "year": 2020,
+    "releaseDate": "Sep 01 2020",
+    "plot": "The 2nd is a movie starring Ryan Phillippe, Casper Van Dien, and Jack Griffo. An Army Delta Force officer is late picking up his son at college. His son and a Supreme Court Justice\u0027s daughter are the last there. A gang of terrorists...",
+    "trailerUrl": "https://imdb.com/video/imdb/vi3993878041",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BY2M0Yzc5ODUtMThkZS00MmZmLWIzYjItOTAxYzJjZjMzODQ0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Ryan Phillippe",
+        "@type": "Person",
+        "url": "/name/nm0000202/"
+      },
+      {
+        "name": "Casper Van Dien",
+        "@type": "Person",
+        "url": "/name/nm0000680/"
+      },
+      {
+        "name": "Jack Griffo",
+        "@type": "Person",
+        "url": "/name/nm4338976/"
+      },
+      {
+        "name": "Lexi Simonsen",
+        "@type": "Person",
+        "url": "/name/nm9153290/"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Brian Skiba",
+        "@type": "Person",
+        "url": "/name/nm2815884/"
+      }
+    ]
   }
 ]
