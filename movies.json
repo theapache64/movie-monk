@@ -71223,5 +71223,53 @@
         "url": "/name/nm0006846/"
       }
     ]
+  },
+  {
+    "baseName": "The Questor Tapes [1974 - USA] Gene Roddenberry sci fi",
+    "baseUrl": "/torrent/41013479/The_Questor_Tapes_[1974_-_USA]_Gene_Roddenberry_sci_fi",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/41013479/The_Questor_Tapes_[1974_-_USA]_Gene_Roddenberry_sci_fi",
+    "imdbId": "tt0070585",
+    "infoUrl": "https://www.imdb.com/title/tt0070585/",
+    "title": "The Questor Tapes",
+    "magnetLink": "magnet:?xt\u003durn:btih:3724589C952E6591AE425492230C6B0C32A165AE\u0026dn\u003dThe+Questor+Tapes+%5B1974+-+USA%5D+Gene+Roddenberry+sci+fi\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 4,
+    "fileSize": "1.39 GiB",
+    "imdbRating": 6.9,
+    "imdbVoteCount": 672,
+    "genre": "Adventure, Drama, Sci-Fi",
+    "duration": "1 hour 40 minutes",
+    "year": 1974,
+    "releaseDate": "Jan 23 1974",
+    "plot": "The Questor Tapes is a TV movie starring Robert Foxworth, Mike Farrell, and John Vernon. Project Questor is the brainchild of the genius Dr. Vaslovik, who developed plans to build an android super-human. Although he has disappeared...",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BODYxNzc3NzE5Ml5BMl5BanBnXkFtZTgwODU2NDkwMDE@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Robert Foxworth",
+        "@type": "Person",
+        "url": "/name/nm0289343/"
+      },
+      {
+        "name": "Mike Farrell",
+        "@type": "Person",
+        "url": "/name/nm0268286/"
+      },
+      {
+        "name": "John Vernon",
+        "@type": "Person",
+        "url": "/name/nm0006893/"
+      },
+      {
+        "name": "Lew Ayres",
+        "@type": "Person",
+        "url": "/name/nm0000817/"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Richard A. Colla",
+        "@type": "Person",
+        "url": "/name/nm0171619/"
+      }
+    ]
   }
 ]
