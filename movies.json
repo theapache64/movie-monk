@@ -71514,5 +71514,54 @@
         "url": "/name/nm0922346/"
       }
     ]
+  },
+  {
+    "baseName": "The.Last.Starfighter.1984.REMASTERED.BDRip.x264-iMPRiNT[TGx]",
+    "baseUrl": "/torrent/41092001/The.Last.Starfighter.1984.REMASTERED.BDRip.x264-iMPRiNT[TGx]",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/41092001/The.Last.Starfighter.1984.REMASTERED.BDRip.x264-iMPRiNT[TGx]",
+    "imdbId": "tt0087597",
+    "infoUrl": "https://www.imdb.com/title/tt0087597",
+    "title": "The Last Starfighter",
+    "magnetLink": "magnet:?xt\u003durn:btih:2AF672AC7C30EC968C8ABF1851DB799B2F9090AF\u0026dn\u003dThe.Last.Starfighter.1984.REMASTERED.BDRip.x264-iMPRiNT%5BTGx%5D\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 4,
+    "fileSize": "879.78 MiB",
+    "imdbRating": 6.8,
+    "imdbVoteCount": 38400,
+    "genre": "Action, Adventure, Sci-Fi",
+    "duration": "1 hour 41 minutes",
+    "year": 1984,
+    "releaseDate": "Jul 13 1984",
+    "plot": "The Last Starfighter is a movie starring Lance Guest, Robert Preston, and Kay E. Kuter. Video game expert Alex Rogan finds himself transported to another planet after conquering The Last Starfighter video game only to find out it...",
+    "trailerUrl": "https://imdb.com/video/imdb/vi2959457817",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BNjIzMWIzMmUtM2E0MC00OTExLWIzYzEtNWIzNzg3M2VjZmQ5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Lance Guest",
+        "@type": "Person",
+        "url": "/name/nm0346411/"
+      },
+      {
+        "name": "Robert Preston",
+        "@type": "Person",
+        "url": "/name/nm0696481/"
+      },
+      {
+        "name": "Kay E. Kuter",
+        "@type": "Person",
+        "url": "/name/nm0476484/"
+      },
+      {
+        "name": "Dan Mason",
+        "@type": "Person",
+        "url": "/name/nm0556660/"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Nick Castle",
+        "@type": "Person",
+        "url": "/name/nm0145309/"
+      }
+    ]
   }
 ]
