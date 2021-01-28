@@ -71801,5 +71801,54 @@
         "url": "/name/nm2635718/"
       }
     ]
+  },
+  {
+    "baseName": "Penguin.Bloom.2021.HDRip.XviD.AC3-EVO[TGx]",
+    "baseUrl": "/torrent/41202652/Penguin.Bloom.2021.HDRip.XviD.AC3-EVO[TGx]",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/41202652/Penguin.Bloom.2021.HDRip.XviD.AC3-EVO[TGx]",
+    "imdbId": "tt6317656",
+    "infoUrl": "https://www.imdb.com/title/tt6317656",
+    "title": "Penguin Bloom",
+    "magnetLink": "magnet:?xt\u003durn:btih:27214AD6D6F6CF8E49DE14239C26829D573427DC\u0026dn\u003dPenguin.Bloom.2021.HDRip.XviD.AC3-EVO%5BTGx%5D\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 3,
+    "fileSize": "1.37 GiB",
+    "imdbRating": 6.5,
+    "imdbVoteCount": 432,
+    "genre": "Drama",
+    "duration": "1 hour 35 minutes",
+    "year": 2021,
+    "releaseDate": "Jan 21 2021",
+    "plot": "Penguin Bloom is a movie starring Naomi Watts, Griffin Murray-Johnston, and Andrew Lincoln. A family takes in an injured Magpie that makes a profound difference in their lives.",
+    "trailerUrl": "https://imdb.com/video/imdb/vi1074446617",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BYTkwZWZkZDgtOTAyMS00NDM4LTgyMWQtMDQxOTY2ZTRmNzRiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Naomi Watts",
+        "@type": "Person",
+        "url": "/name/nm0915208/"
+      },
+      {
+        "name": "Griffin Murray-Johnston",
+        "@type": "Person",
+        "url": "/name/nm10881822/"
+      },
+      {
+        "name": "Andrew Lincoln",
+        "@type": "Person",
+        "url": "/name/nm0511088/"
+      },
+      {
+        "name": "Essi Murray-Johnston",
+        "@type": "Person",
+        "url": "/name/nm12270579/"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Glendyn Ivin",
+        "@type": "Person",
+        "url": "/name/nm1380395/"
+      }
+    ]
   }
 ]
