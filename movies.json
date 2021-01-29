@@ -71937,5 +71937,54 @@
         "url": "/name/nm7802941/"
       }
     ]
+  },
+  {
+    "baseName": "The.Little.Things.2021.HDRip.XviD.AC3-EVO[TGx]",
+    "baseUrl": "/torrent/41385893/The.Little.Things.2021.HDRip.XviD.AC3-EVO[TGx]",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/41385893/The.Little.Things.2021.HDRip.XviD.AC3-EVO[TGx]",
+    "imdbId": "tt10016180",
+    "infoUrl": "https://www.imdb.com/title/tt10016180",
+    "title": "The Little Things",
+    "magnetLink": "magnet:?xt\u003durn:btih:743DA5A739085C953DA2D1B1DA512C0FBA980100\u0026dn\u003dThe.Little.Things.2021.HDRip.XviD.AC3-EVO%5BTGx%5D\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 2,
+    "fileSize": "1.42 GiB",
+    "imdbRating": 7.4,
+    "imdbVoteCount": 476,
+    "genre": "Crime, Drama, Thriller",
+    "duration": "2 hours 7 minutes",
+    "year": 2021,
+    "releaseDate": "Jan 27 2021",
+    "plot": "The Little Things is a movie starring Denzel Washington, Rami Malek, and Jared Leto. Two cops track down a serial killer.",
+    "trailerUrl": "https://imdb.com/video/imdb/vi672579865",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BOGFlNTdmYWQtM2IzMi00YTY3LTlmMDQtZDI5NGQ5MjYzZmEwXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Denzel Washington",
+        "@type": "Person",
+        "url": "/name/nm0000243/"
+      },
+      {
+        "name": "Rami Malek",
+        "@type": "Person",
+        "url": "/name/nm1785339/"
+      },
+      {
+        "name": "Jared Leto",
+        "@type": "Person",
+        "url": "/name/nm0001467/"
+      },
+      {
+        "name": "Chris Bauer",
+        "@type": "Person",
+        "url": "/name/nm0061777/"
+      }
+    ],
+    "directors": [
+      {
+        "name": "John Lee Hancock",
+        "@type": "Person",
+        "url": "/name/nm0359387/"
+      }
+    ]
   }
 ]
