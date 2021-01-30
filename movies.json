@@ -72182,5 +72182,54 @@
         "url": "/name/nm1404307/"
       }
     ]
+  },
+  {
+    "baseName": "The.Night.2021.HDRip.XviD.AC3-EVO",
+    "baseUrl": "/torrent/41385749/The.Night.2021.HDRip.XviD.AC3-EVO",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/41385749/The.Night.2021.HDRip.XviD.AC3-EVO",
+    "imdbId": "tt8102806",
+    "infoUrl": "https://www.imdb.com/title/tt8102806",
+    "title": "The Night",
+    "magnetLink": "magnet:?xt\u003durn:btih:E4ECA7B6DB48BE2AF62059F253E53818746D10D6\u0026dn\u003dThe.Night.2021.HDRip.XviD.AC3-EVO\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 4,
+    "fileSize": "1.33 GiB",
+    "imdbRating": 5.8,
+    "imdbVoteCount": 255,
+    "genre": "Horror, Mystery, Thriller",
+    "duration": "1 hour 45 minutes",
+    "year": 2021,
+    "releaseDate": "Jan 29 2021",
+    "plot": "The Night is a movie starring Shahab Hosseini, Niousha Noor, and George Maguire. An Iranian couple living in the US become trapped inside a hotel when insidious events force them to face the secrets that have come between them, in a...",
+    "trailerUrl": "https://imdb.com/video/imdb/vi1158070553",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BN2M3NGY2NmItYjVmMC00NmE1LWIxZDctMTllNTgzYTA5YjQwXkEyXkFqcGdeQXVyMTE1MzI2NzIz._V1_.jpg",
+    "actors": [
+      {
+        "name": "Shahab Hosseini",
+        "@type": "Person",
+        "url": "/name/nm1486911/"
+      },
+      {
+        "name": "Niousha Noor",
+        "@type": "Person",
+        "url": "/name/nm2873130/"
+      },
+      {
+        "name": "George Maguire",
+        "@type": "Person",
+        "url": "/name/nm0536574/"
+      },
+      {
+        "name": "Michael Graham",
+        "@type": "Person",
+        "url": "/name/nm5227612/"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Kourosh Ahari",
+        "@type": "Person",
+        "url": "/name/nm6422804/"
+      }
+    ]
   }
 ]
