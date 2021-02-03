@@ -72734,5 +72734,54 @@
         "url": "/name/nm10983109/"
       }
     ]
+  },
+  {
+    "baseName": "Sputnik.2020.BRRip.XviD.AC3-EVO",
+    "baseUrl": "/torrent/41640827/Sputnik.2020.BRRip.XviD.AC3-EVO",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/41640827/Sputnik.2020.BRRip.XviD.AC3-EVO",
+    "imdbId": "tt11905962",
+    "infoUrl": "https://www.imdb.com/title/tt11905962",
+    "title": "Sputnik",
+    "magnetLink": "magnet:?xt\u003durn:btih:8A51BFF93CCF3B920BB1F9119994AAA7DA76D2AA\u0026dn\u003dSputnik.2020.BRRip.XviD.AC3-EVO\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 3,
+    "fileSize": "1.35 GiB",
+    "imdbRating": 6.4,
+    "imdbVoteCount": 13858,
+    "genre": "Drama, Horror, Sci-Fi, Thriller",
+    "duration": "1 hour 53 minutes",
+    "year": 2020,
+    "releaseDate": "Jul 24 2020",
+    "plot": "Sputnik is a movie starring Oksana Akinshina, Fedor Bondarchuk, and Pyotr Fyodorov. The lone survivor of an enigmatic spaceship incident hasn\u0027t returned back home alone-hiding inside his body is a dangerous creature.",
+    "trailerUrl": "https://imdb.com/video/imdb/vi3659907353",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BOTI4ZmE4MDUtMTFjOS00NWNkLThkMzgtOTdmYzY4ODhmYTI0XkEyXkFqcGdeQXVyMTE1MzI2NzIz._V1_.jpg",
+    "actors": [
+      {
+        "name": "Oksana Akinshina",
+        "@type": "Person",
+        "url": "/name/nm0968541/"
+      },
+      {
+        "name": "Fedor Bondarchuk",
+        "@type": "Person",
+        "url": "/name/nm0094080/"
+      },
+      {
+        "name": "Pyotr Fyodorov",
+        "@type": "Person",
+        "url": "/name/nm1215228/"
+      },
+      {
+        "name": "Anton Vasilev",
+        "@type": "Person",
+        "url": "/name/nm6620975/"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Egor Abramenko",
+        "@type": "Person",
+        "url": "/name/nm3325960/"
+      }
+    ]
   }
 ]
