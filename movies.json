@@ -72783,5 +72783,62 @@
         "url": "/name/nm3325960/"
       }
     ]
+  },
+  {
+    "baseName": "A.World.of.Worlds.2020.HDRip.XviD.AC3-EVO[TGx]",
+    "baseUrl": "/torrent/41704775/A.World.of.Worlds.2020.HDRip.XviD.AC3-EVO[TGx]",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/41704775/A.World.of.Worlds.2020.HDRip.XviD.AC3-EVO[TGx]",
+    "magnetLink": "magnet:?xt\u003durn:btih:92E0AF1BDB9366F4B170D7EE90126494240611C8\u0026dn\u003dA.World.of.Worlds.2020.HDRip.XviD.AC3-EVO%5BTGx%5D\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 3,
+    "fileSize": "1.34 GiB"
+  },
+  {
+    "baseName": "The Last Starfighter 1984 Remastered 720p BluRay HEVC H265 BONE",
+    "baseUrl": "/torrent/41683726/The_Last_Starfighter_1984_Remastered_720p_BluRay_HEVC_H265_BONE",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/41683726/The_Last_Starfighter_1984_Remastered_720p_BluRay_HEVC_H265_BONE",
+    "imdbId": "tt0087597",
+    "infoUrl": "https://www.imdb.com/title/tt0087597",
+    "title": "The Last Starfighter",
+    "magnetLink": "magnet:?xt\u003durn:btih:E27EB2106A11DDACB2D375ECAFC34178000C6B83\u0026dn\u003dThe+Last+Starfighter+1984+Remastered+720p+BluRay+HEVC+H265+BONE\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 1,
+    "fileSize": "692.1 MiB",
+    "imdbRating": 6.8,
+    "imdbVoteCount": 38461,
+    "genre": "Action, Adventure, Sci-Fi",
+    "duration": "1 hour 41 minutes",
+    "year": 1984,
+    "releaseDate": "Jul 13 1984",
+    "plot": "The Last Starfighter is a movie starring Lance Guest, Robert Preston, and Kay E. Kuter. Video game expert Alex Rogan finds himself transported to another planet after conquering The Last Starfighter video game only to find out it...",
+    "trailerUrl": "https://imdb.com/video/imdb/vi2959457817",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BNjIzMWIzMmUtM2E0MC00OTExLWIzYzEtNWIzNzg3M2VjZmQ5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Lance Guest",
+        "@type": "Person",
+        "url": "/name/nm0346411/"
+      },
+      {
+        "name": "Robert Preston",
+        "@type": "Person",
+        "url": "/name/nm0696481/"
+      },
+      {
+        "name": "Kay E. Kuter",
+        "@type": "Person",
+        "url": "/name/nm0476484/"
+      },
+      {
+        "name": "Dan Mason",
+        "@type": "Person",
+        "url": "/name/nm0556660/"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Nick Castle",
+        "@type": "Person",
+        "url": "/name/nm0145309/"
+      }
+    ]
   }
 ]
