@@ -72896,5 +72896,53 @@
         "url": "/name/nm6607709/"
       }
     ]
+  },
+  {
+    "baseName": "The.Donkey.King.2020.HDRip.XviD.AC3-EVO",
+    "baseUrl": "/torrent/41743080/The.Donkey.King.2020.HDRip.XviD.AC3-EVO",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/41743080/The.Donkey.King.2020.HDRip.XviD.AC3-EVO",
+    "imdbId": "tt10518240",
+    "infoUrl": "https://www.imdb.com/title/tt10518240",
+    "title": "The Donkey King",
+    "magnetLink": "magnet:?xt\u003durn:btih:461FD8C7B3F650FDBE56EC3B6738956A42D0E7A1\u0026dn\u003dThe.Donkey.King.2020.HDRip.XviD.AC3-EVO\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 3,
+    "fileSize": "1.33 GiB",
+    "imdbRating": 6.0,
+    "imdbVoteCount": 53,
+    "genre": "Animation, Adventure, Comedy, Family, Musical",
+    "duration": "1 hour 38 minutes",
+    "year": 2020,
+    "releaseDate": "Jul 03 2020",
+    "plot": "The Donkey King is a movie starring Dan Green, Mike Pollock, and Tyler Bunch. When the ruler of Azad City suddenly renounces the throne, a down-on-his-luck donkey wins the nation\u0027s first election, and is crowned The Donkey King.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BOTc4NDgyNGYtNzM2MS00NGI0LThjNDEtMzJjMWY5MDcwM2FlXkEyXkFqcGdeQXVyMzYyMDAzNDU@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Dan Green",
+        "@type": "Person",
+        "url": "/name/nm0337751/"
+      },
+      {
+        "name": "Mike Pollock",
+        "@type": "Person",
+        "url": "/name/nm0689685/"
+      },
+      {
+        "name": "Tyler Bunch",
+        "@type": "Person",
+        "url": "/name/nm0120362/"
+      },
+      {
+        "name": "Billy Bob Thompson",
+        "@type": "Person",
+        "url": "/name/nm2974582/"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Aziz Jindani",
+        "@type": "Person",
+        "url": "/name/nm6607709/"
+      }
+    ]
   }
 ]
