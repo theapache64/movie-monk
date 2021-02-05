@@ -73143,5 +73143,52 @@
         "url": "/name/nm0335337/"
       }
     ]
+  },
+  {
+    "baseName": "Fear.of.Rain.2021.BRRip.XviD.AC3-EVO[TGx]",
+    "baseUrl": "/torrent/41756320/Fear.of.Rain.2021.BRRip.XviD.AC3-EVO[TGx]",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/41756320/Fear.of.Rain.2021.BRRip.XviD.AC3-EVO[TGx]",
+    "imdbId": "tt10037014",
+    "infoUrl": "https://www.imdb.com/title/tt10037014",
+    "title": "Fear of Rain",
+    "magnetLink": "magnet:?xt\u003durn:btih:9F410CBE2255C23A02C201F01FBE42382AA3D063\u0026dn\u003dFear.of.Rain.2021.BRRip.XviD.AC3-EVO%5BTGx%5D\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 3,
+    "fileSize": "1.29 GiB",
+    "genre": "Drama, Horror, Thriller",
+    "duration": "1 hour 32 minutes",
+    "year": 2021,
+    "releaseDate": "Feb 12 2021",
+    "plot": "Fear of Rain is a movie starring Katherine Heigl, Madison Iseman, and Israel Broussard. A girl living with schizophrenia struggles with terrifying hallucinations as she begins to suspect her neighbor has kidnapped a child. The only...",
+    "trailerUrl": "https://imdb.com/video/imdb/vi3341795609",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BNjMyYmRiYmEtMjVjOC00ZGU2LThkZWEtOWIyYWQzMWZkODg3XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Katherine Heigl",
+        "@type": "Person",
+        "url": "/name/nm0001337/"
+      },
+      {
+        "name": "Madison Iseman",
+        "@type": "Person",
+        "url": "/name/nm5589690/"
+      },
+      {
+        "name": "Israel Broussard",
+        "@type": "Person",
+        "url": "/name/nm3441152/"
+      },
+      {
+        "name": "Harry Connick Jr.",
+        "@type": "Person",
+        "url": "/name/nm0001065/"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Castille Landon",
+        "@type": "Person",
+        "url": "/name/nm2500541/"
+      }
+    ]
   }
 ]
