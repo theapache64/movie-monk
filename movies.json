@@ -73660,5 +73660,54 @@
         "url": "/name/nm1676649/"
       }
     ]
+  },
+  {
+    "baseName": "Gunned.Down.2020.HDRip.XviD.AC3-EVO[TGx]",
+    "baseUrl": "/torrent/41766388/Gunned.Down.2020.HDRip.XviD.AC3-EVO[TGx]",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/41766388/Gunned.Down.2020.HDRip.XviD.AC3-EVO[TGx]",
+    "imdbId": "tt1024855",
+    "infoUrl": "https://www.imdb.com/title/tt1024855",
+    "title": "Gunned Down",
+    "magnetLink": "magnet:?xt\u003durn:btih:A5E44D28C7536672D3003FA8ED80C3F2B40CC4B8\u0026dn\u003dGunned.Down.2020.HDRip.XviD.AC3-EVO%5BTGx%5D\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 3,
+    "fileSize": "1.3 GiB",
+    "imdbRating": 5.2,
+    "imdbVoteCount": 968,
+    "genre": "Action, Thriller",
+    "duration": "1 hour 35 minutes",
+    "year": 2017,
+    "releaseDate": "Jul 17 2017",
+    "plot": "Gunned Down is a movie starring Craig Fairbrass, James Cosmo, and Mem Ferda. Armed robber and career criminal Jack Cregan seeks to discover the truth behind his father\u0027s murder and his stolen heist money and in doing so puts his...",
+    "trailerUrl": "https://imdb.com/video/imdb/vi1373616409",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTU2NDMzNzQ0Nl5BMl5BanBnXkFtZTgwMjk2OTg5NjE@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Craig Fairbrass",
+        "@type": "Person",
+        "url": "/name/nm0265492/"
+      },
+      {
+        "name": "James Cosmo",
+        "@type": "Person",
+        "url": "/name/nm0181920/"
+      },
+      {
+        "name": "Mem Ferda",
+        "@type": "Person",
+        "url": "/name/nm1570873/"
+      },
+      {
+        "name": "Nick Moran",
+        "@type": "Person",
+        "url": "/name/nm0602941/"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Mark McQueen",
+        "@type": "Person",
+        "url": "/name/nm1654324/"
+      }
+    ]
   }
 ]
