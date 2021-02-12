@@ -74550,5 +74550,54 @@
         "url": "/name/nm3489851/"
       }
     ]
+  },
+  {
+    "baseName": "Wrong.Turn.2021.BDRip.XviD.AC3-EVO",
+    "baseUrl": "/torrent/41795119/Wrong.Turn.2021.BDRip.XviD.AC3-EVO",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/41795119/Wrong.Turn.2021.BDRip.XviD.AC3-EVO",
+    "imdbId": "tt9110170",
+    "infoUrl": "https://www.imdb.com/title/tt9110170",
+    "title": "Wrong Turn",
+    "magnetLink": "magnet:?xt\u003durn:btih:31CC4A7D4FF60B80C689BF0825D108B6FBD9F571\u0026dn\u003dWrong.Turn.2021.BDRip.XviD.AC3-EVO\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 3,
+    "fileSize": "1.31 GiB",
+    "imdbRating": 6.0,
+    "imdbVoteCount": 863,
+    "genre": "Horror, Thriller",
+    "duration": "1 hour 49 minutes",
+    "year": 2021,
+    "releaseDate": "Jan 26 2021",
+    "plot": "Wrong Turn is a movie starring Matthew Modine, Emma Dumont, and Charlotte Vega. Friends hiking the Appalachian Trail are confronted by \u0027The Foundation\u0027, a community of people who have lived in the mountains for hundreds of years.",
+    "trailerUrl": "https://imdb.com/video/imdb/vi2786115865",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BM2Y5ZWE2MTMtODE3ZC00NWQ4LWJkNzctNGY4Njg5NDY5MzNlXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Matthew Modine",
+        "@type": "Person",
+        "url": "/name/nm0000546/"
+      },
+      {
+        "name": "Emma Dumont",
+        "@type": "Person",
+        "url": "/name/nm2730808/"
+      },
+      {
+        "name": "Charlotte Vega",
+        "@type": "Person",
+        "url": "/name/nm5256984/"
+      },
+      {
+        "name": "Daisy Head",
+        "@type": "Person",
+        "url": "/name/nm1724742/"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Mike P. Nelson",
+        "@type": "Person",
+        "url": "/name/nm2298645/"
+      }
+    ]
   }
 ]
