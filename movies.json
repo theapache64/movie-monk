@@ -75450,5 +75450,54 @@
         "url": "/name/nm1955513/"
       }
     ]
+  },
+  {
+    "baseName": "Shook.2021.HDRip.XviD.AC3-EVO",
+    "baseUrl": "/torrent/41815115/Shook.2021.HDRip.XviD.AC3-EVO",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/41815115/Shook.2021.HDRip.XviD.AC3-EVO",
+    "imdbId": "tt7211648",
+    "infoUrl": "https://www.imdb.com/title/tt7211648",
+    "title": "Shook",
+    "magnetLink": "magnet:?xt\u003durn:btih:50DA11890736CEA652AAD76BCBBBA43F5899FF8F\u0026dn\u003dShook.2021.HDRip.XviD.AC3-EVO\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 3,
+    "fileSize": "1.29 GiB",
+    "imdbRating": 4.4,
+    "imdbVoteCount": 67,
+    "genre": "Horror",
+    "duration": "1 hour 28 minutes",
+    "year": 2021,
+    "releaseDate": "Feb 18 2021",
+    "plot": "Shook is a movie starring Daisye Tutor, Emily Goss, and Nicola Posener. When Mia, a social media star, becomes the target of an online terror campaign, she has to solve a series of games to prevent people she cares about from...",
+    "trailerUrl": "https://imdb.com/video/imdb/vi2337784089",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BYmI3YzEwMjctNTUxNi00OWI0LTgzNjMtYzJiNmUzZDgxODE3XkEyXkFqcGdeQXVyMTc1NjMyNDE@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Daisye Tutor",
+        "@type": "Person",
+        "url": "/name/nm2944023/"
+      },
+      {
+        "name": "Emily Goss",
+        "@type": "Person",
+        "url": "/name/nm4175887/"
+      },
+      {
+        "name": "Nicola Posener",
+        "@type": "Person",
+        "url": "/name/nm1870939/"
+      },
+      {
+        "name": "Stephanie Simbari",
+        "@type": "Person",
+        "url": "/name/nm3224180/"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Jennifer Harrington",
+        "@type": "Person",
+        "url": "/name/nm1402325/"
+      }
+    ]
   }
 ]
