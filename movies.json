@@ -75842,5 +75842,52 @@
         "url": "/name/nm0664575/"
       }
     ]
+  },
+  {
+    "baseName": "Son.2021.HDRip.XviD.AC3-EVO",
+    "baseUrl": "/torrent/41851686/Son.2021.HDRip.XviD.AC3-EVO",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/41851686/Son.2021.HDRip.XviD.AC3-EVO",
+    "imdbId": "tt5624466",
+    "infoUrl": "https://www.imdb.com/title/tt5624466",
+    "title": "Son",
+    "magnetLink": "magnet:?xt\u003durn:btih:695419306E4B4DDC1204701E472E69C8F7344D73\u0026dn\u003dSon.2021.HDRip.XviD.AC3-EVO\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 3,
+    "fileSize": "1.34 GiB",
+    "genre": "Horror, Thriller",
+    "duration": "1 hour 38 minutes",
+    "year": 2021,
+    "releaseDate": "Mar 05 2021",
+    "plot": "Son is a movie starring Emile Hirsch, Andi Matichak, and Luke David Blumm. When a young boy contracts a mysterious illness, his mother must decide how far she will go to protect him from terrifying forces in her past.",
+    "trailerUrl": "https://imdb.com/video/imdb/vi1717420313",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BZDRmNDZlZTUtOTQwOS00NTAwLTg5OTktNzIzZjQ2OTk5NGU2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Emile Hirsch",
+        "@type": "Person",
+        "url": "/name/nm0386472/"
+      },
+      {
+        "name": "Andi Matichak",
+        "@type": "Person",
+        "url": "/name/nm5506858/"
+      },
+      {
+        "name": "Luke David Blumm",
+        "@type": "Person",
+        "url": "/name/nm9897928/"
+      },
+      {
+        "name": "Cranston Johnson",
+        "@type": "Person",
+        "url": "/name/nm4044252/"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Ivan Kavanagh",
+        "@type": "Person",
+        "url": "/name/nm2830839/"
+      }
+    ]
   }
 ]
