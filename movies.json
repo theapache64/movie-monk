@@ -75798,5 +75798,49 @@
         "url": "/name/nm2678641/"
       }
     ]
+  },
+  {
+    "baseName": "The.Pond.2021.HDRip.XviD.AC3-EVO",
+    "baseUrl": "/torrent/41843702/The.Pond.2021.HDRip.XviD.AC3-EVO",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/41843702/The.Pond.2021.HDRip.XviD.AC3-EVO",
+    "imdbId": "tt10739160",
+    "infoUrl": "https://www.imdb.com/title/tt10739160",
+    "title": "The Pond",
+    "magnetLink": "magnet:?xt\u003durn:btih:630F17679EFBF65ED1C4DC32C726CA8F5F0061BF\u0026dn\u003dThe.Pond.2021.HDRip.XviD.AC3-EVO\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 3,
+    "fileSize": "1.54 GiB",
+    "imdbRating": 4.7,
+    "imdbVoteCount": 40,
+    "genre": "Drama, Horror, Mystery",
+    "duration": "1 hour 36 minutes",
+    "year": 2021,
+    "releaseDate": "Feb 23 2021",
+    "plot": "The Pond is a movie starring Marco Canadea, Leslie Kunz, and Paul Leonard Murray. Anthropology professor was kicked out from his university for claiming to be on the threshold of an apocalyptic discovery. Someone or something is...",
+    "trailerUrl": "https://imdb.com/video/imdb/vi1426702105",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BZTBjYTRjNDctNDVlYi00N2E0LTk4MWItODAzOGQ5ZTY5N2M1XkEyXkFqcGdeQXVyOTc0Nzk5Mzg@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Marco Canadea",
+        "@type": "Person",
+        "url": "/name/nm5062737/"
+      },
+      {
+        "name": "Leslie Kunz",
+        "@type": "Person",
+        "url": "/name/nm4966038/"
+      },
+      {
+        "name": "Paul Leonard Murray",
+        "@type": "Person",
+        "url": "/name/nm4234031/"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Petar Pasic",
+        "@type": "Person",
+        "url": "/name/nm0664575/"
+      }
+    ]
   }
 ]
