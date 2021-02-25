@@ -75937,5 +75937,54 @@
         "url": "/name/nm0348274/"
       }
     ]
+  },
+  {
+    "baseName": "Rolling.Thunder.Revue.A.Bob.Dylan.Story.by.Martin.Scorsese.2019.",
+    "baseUrl": "/torrent/41853696/Rolling.Thunder.Revue.A.Bob.Dylan.Story.by.Martin.Scorsese.2019.",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/41853696/Rolling.Thunder.Revue.A.Bob.Dylan.Story.by.Martin.Scorsese.2019.",
+    "imdbId": "tt9577852",
+    "infoUrl": "https://www.imdb.com/title/tt9577852",
+    "title": "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+    "magnetLink": "magnet:?xt\u003durn:btih:8A29A9122790A71140B788B6C51ED40698DFA97C\u0026dn\u003dRolling.Thunder.Revue.A.Bob.Dylan.Story.by.Martin.Scorsese.2019.\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 4,
+    "fileSize": "1.62 GiB",
+    "imdbRating": 7.6,
+    "imdbVoteCount": 5428,
+    "genre": "Documentary, Biography, History, Music",
+    "duration": "2 hours 22 minutes",
+    "year": 2019,
+    "releaseDate": "Jun 12 2019",
+    "plot": "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese is a movie starring Bob Dylan, Allen Ginsberg, and Patti Smith. In an alchemic mix of fact and fantasy, Martin Scorsese looks back at Bob Dylan\u0027s 1975 Rolling Thunder Revue...",
+    "trailerUrl": "https://imdb.com/video/imdb/vi1757985817",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BZjNlODJmY2QtYWI3MS00NmY3LTg0NmItMjAyOTBiOWMyNGFiXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Bob Dylan",
+        "@type": "Person",
+        "url": "/name/nm0001168/"
+      },
+      {
+        "name": "Allen Ginsberg",
+        "@type": "Person",
+        "url": "/name/nm0320091/"
+      },
+      {
+        "name": "Patti Smith",
+        "@type": "Person",
+        "url": "/name/nm0005446/"
+      },
+      {
+        "name": "Martin von Haselberg",
+        "@type": "Person",
+        "url": "/name/nm0902393/"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Martin Scorsese",
+        "@type": "Person",
+        "url": "/name/nm0000217/"
+      }
+    ]
   }
 ]
