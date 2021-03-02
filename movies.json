@@ -76808,5 +76808,54 @@
         "url": "/name/nm0531817/"
       }
     ]
+  },
+  {
+    "baseName": "The Mauritanian.2021.HDRip.XviD.AC3-EVO",
+    "baseUrl": "/torrent/41884167/The_Mauritanian.2021.HDRip.XviD.AC3-EVO",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/41884167/The_Mauritanian.2021.HDRip.XviD.AC3-EVO",
+    "imdbId": "tt4761112",
+    "infoUrl": "https://www.imdb.com/title/tt4761112/",
+    "title": "The Mauritanian",
+    "magnetLink": "magnet:?xt\u003durn:btih:7B8F169C03104828B3248B1BB7092BD5D4A6C21E\u0026dn\u003dThe+Mauritanian.2021.HDRip.XviD.AC3-EVO\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 3,
+    "fileSize": "1.31 GiB",
+    "imdbRating": 7.1,
+    "imdbVoteCount": 975,
+    "genre": "Drama, Thriller",
+    "duration": "2 hours 9 minutes",
+    "year": 2021,
+    "releaseDate": "Feb 12 2021",
+    "plot": "The Mauritanian is a movie starring Tahar Rahim, Nouhe Hamady Bari, and Saadna Hamoud. Mohamedou Ould Salahi fights for freedom after being detained and imprisoned without charge by the U.S. Government for years.",
+    "trailerUrl": "https://imdb.com/video/imdb/vi2024980505",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BODJlMzdlYzItMzRkNi00NTE0LTliZjQtMTllNzkxNDVhNjkxXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Tahar Rahim",
+        "@type": "Person",
+        "url": "/name/nm2588665/"
+      },
+      {
+        "name": "Nouhe Hamady Bari",
+        "@type": "Person",
+        "url": "/name/nm12366935/"
+      },
+      {
+        "name": "Saadna Hamoud",
+        "@type": "Person",
+        "url": "/name/nm12366936/"
+      },
+      {
+        "name": "Mohamed Yeslem Mousse",
+        "@type": "Person",
+        "url": "/name/nm12366937/"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Kevin Macdonald",
+        "@type": "Person",
+        "url": "/name/nm0531817/"
+      }
+    ]
   }
 ]
