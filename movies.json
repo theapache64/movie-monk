@@ -76955,5 +76955,54 @@
         "url": "/name/nm4769939/"
       }
     ]
+  },
+  {
+    "baseName": "Dolphin.Island.2021.HDRip.XviD.AC3-EVO",
+    "baseUrl": "/torrent/41885212/Dolphin.Island.2021.HDRip.XviD.AC3-EVO",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/41885212/Dolphin.Island.2021.HDRip.XviD.AC3-EVO",
+    "imdbId": "tt11692070",
+    "infoUrl": "https://www.imdb.com/title/tt11692070",
+    "title": "Dolphin Island",
+    "magnetLink": "magnet:?xt\u003durn:btih:49396461D7CD70769FE9AAE0400F78674C3EFE70\u0026dn\u003dDolphin.Island.2021.HDRip.XviD.AC3-EVO\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 2,
+    "fileSize": "1.33 GiB",
+    "imdbRating": 5.4,
+    "imdbVoteCount": 13,
+    "genre": "Drama, Family",
+    "duration": "1 hour 31 minutes",
+    "year": 2021,
+    "releaseDate": "Mar 02 2021",
+    "plot": "Dolphin Island is a movie starring Peter Woodward, Derek Lee Nixon, and Dionne Lea. After losing her parents, fourteen-year-old Annabel Coleridge lives with her fisherman grandfather on a Caribbean island paradise surrounded by an...",
+    "trailerUrl": "https://imdb.com/video/imdb/vi3007824153",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMmEyYTAwYmMtZWY1Ny00YTZiLThiNWMtNWU2M2IzNzM2MGMxXkEyXkFqcGdeQXVyMTcwMjE4MTQ@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Peter Woodward",
+        "@type": "Person",
+        "url": "/name/nm0940974/"
+      },
+      {
+        "name": "Derek Lee Nixon",
+        "@type": "Person",
+        "url": "/name/nm1238488/"
+      },
+      {
+        "name": "Dionne Lea",
+        "@type": "Person",
+        "url": "/name/nm2071473/"
+      },
+      {
+        "name": "Bob Bledsoe",
+        "@type": "Person",
+        "url": "/name/nm2021820/"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Mike Disa",
+        "@type": "Person",
+        "url": "/name/nm1918538/"
+      }
+    ]
   }
 ]
