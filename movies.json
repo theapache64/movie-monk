@@ -78089,5 +78089,54 @@
         "url": "/name/nm4105794/"
       }
     ]
+  },
+  {
+    "baseName": "The.Bone.Box.2020.HDRip.XviD.AC3-EVO",
+    "baseUrl": "/torrent/41929211/The.Bone.Box.2020.HDRip.XviD.AC3-EVO",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/41929211/The.Bone.Box.2020.HDRip.XviD.AC3-EVO",
+    "imdbId": "tt4626020",
+    "infoUrl": "https://www.imdb.com/title/tt4626020",
+    "title": "The Bone Box",
+    "magnetLink": "magnet:?xt\u003durn:btih:DECB10DE08149C03E2362428C365B580D5D809C4\u0026dn\u003dThe.Bone.Box.2020.HDRip.XviD.AC3-EVO\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 3,
+    "fileSize": "1.35 GiB",
+    "imdbRating": 3.2,
+    "imdbVoteCount": 151,
+    "genre": "Drama, Horror, Thriller",
+    "duration": "1 hour 26 minutes",
+    "year": 2020,
+    "releaseDate": "Mar 13 2020",
+    "plot": "The Bone Box is a movie starring Aaron Schwartz, Michelle Krusiec, and David Chokachi. A grave robber comes to believe he\u0027s being haunted by those he stole from.",
+    "trailerUrl": "https://imdb.com/video/imdb/vi4255235609",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BNTc5ODE0N2EtNDU3OS00YzNhLTkzMzAtOGRhZjQxNjY2MmIwXkEyXkFqcGdeQXVyNTcwMzkyNDE@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Aaron Schwartz",
+        "@type": "Person",
+        "url": "/name/nm0777125/"
+      },
+      {
+        "name": "Michelle Krusiec",
+        "@type": "Person",
+        "url": "/name/nm0472891/"
+      },
+      {
+        "name": "David Chokachi",
+        "@type": "Person",
+        "url": "/name/nm0002003/"
+      },
+      {
+        "name": "Jamie Bernadette",
+        "@type": "Person",
+        "url": "/name/nm2584117/"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Luke Genton",
+        "@type": "Person",
+        "url": "/name/nm4362625/"
+      }
+    ]
   }
 ]
