@@ -78187,5 +78187,59 @@
         "url": "/name/nm0049371/"
       }
     ]
+  },
+  {
+    "baseName": "Cherry.2021.HDRip.XviD.AC3-EVO[TGx]",
+    "baseUrl": "/torrent/41934274/Cherry.2021.HDRip.XviD.AC3-EVO[TGx]",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/41934274/Cherry.2021.HDRip.XviD.AC3-EVO[TGx]",
+    "imdbId": "tt9130508",
+    "infoUrl": "https://www.imdb.com/title/tt9130508",
+    "title": "Cherry",
+    "magnetLink": "magnet:?xt\u003durn:btih:2D81AAD2968FD9BB15FF19856647FB005E3C1A2E\u0026dn\u003dCherry.2021.HDRip.XviD.AC3-EVO%5BTGx%5D\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 2,
+    "fileSize": "1.46 GiB",
+    "imdbRating": 5.6,
+    "imdbVoteCount": 583,
+    "genre": "Crime, Drama",
+    "duration": "2 hours 22 minutes",
+    "year": 2021,
+    "releaseDate": "Mar 12 2021",
+    "plot": "Cherry is a movie starring Tom Holland, Ciara Bravo, and Jack Reynor. An Army medic suffering from post-traumatic stress disorder becomes a serial bank robber after an addiction to drugs puts him in debt.",
+    "trailerUrl": "https://imdb.com/video/imdb/vi2259206169",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BOTZkMzlkYmItZDAyNy00NmZhLWE3MWItMzQyNDhkYzcwMTFmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Tom Holland",
+        "@type": "Person",
+        "url": "/name/nm4043618/"
+      },
+      {
+        "name": "Ciara Bravo",
+        "@type": "Person",
+        "url": "/name/nm2731980/"
+      },
+      {
+        "name": "Jack Reynor",
+        "@type": "Person",
+        "url": "/name/nm2930503/"
+      },
+      {
+        "name": "Forrest Goodluck",
+        "@type": "Person",
+        "url": "/name/nm5569442/"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Anthony Russo",
+        "@type": "Person",
+        "url": "/name/nm0751577/"
+      },
+      {
+        "name": "Joe Russo",
+        "@type": "Person",
+        "url": "/name/nm0751648/"
+      }
+    ]
   }
 ]
