@@ -78442,5 +78442,54 @@
         "url": "/name/nm0049371/"
       }
     ]
+  },
+  {
+    "baseName": "Yes.Day.2021.HDRip.XviD.AC3-EVO",
+    "baseUrl": "/torrent/41934641/Yes.Day.2021.HDRip.XviD.AC3-EVO",
+    "fullBaseUrl": "https://thepiratebay10.org/torrent/41934641/Yes.Day.2021.HDRip.XviD.AC3-EVO",
+    "imdbId": "tt8521876",
+    "infoUrl": "https://www.imdb.com/title/tt8521876",
+    "title": "Yes Day",
+    "magnetLink": "magnet:?xt\u003durn:btih:088B1B3FF38089B66ADC457B15A5BB791A17D2A1\u0026dn\u003dYes.Day.2021.HDRip.XviD.AC3-EVO\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr\u003dudp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce\u0026tr\u003dudp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce",
+    "fileCount": 3,
+    "fileSize": "1.28 GiB",
+    "imdbRating": 5.7,
+    "imdbVoteCount": 280,
+    "genre": "Comedy, Family",
+    "duration": "1 hour 26 minutes",
+    "year": 2021,
+    "releaseDate": "Mar 12 2021",
+    "plot": "Yes Day is a movie starring Jennifer Garner, Edgar Ramírez, and Jenna Ortega. Allison and Carlos decide to give their three kids a \"yes day\", where for 24 hours the kids make the rules.",
+    "trailerUrl": "https://imdb.com/video/imdb/vi140362009",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BNTMwMzA4YzYtMzkwNC00N2ZhLTk5MjQtMjg3ODA3NDY3ZmVmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "actors": [
+      {
+        "name": "Jennifer Garner",
+        "@type": "Person",
+        "url": "/name/nm0004950/"
+      },
+      {
+        "name": "Edgar Ramírez",
+        "@type": "Person",
+        "url": "/name/nm1183149/"
+      },
+      {
+        "name": "Jenna Ortega",
+        "@type": "Person",
+        "url": "/name/nm4911194/"
+      },
+      {
+        "name": "Julian Lerner",
+        "@type": "Person",
+        "url": "/name/nm8574700/"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Miguel Arteta",
+        "@type": "Person",
+        "url": "/name/nm0037708/"
+      }
+    ]
   }
 ]
